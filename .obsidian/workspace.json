@@ -22,21 +22,8 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "967fb4b2e0390b2a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Post Erome.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "0e76f9fe57e74de8",
@@ -158,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post Erome.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post Erome.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post Erome.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -231,12 +218,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "967fb4b2e0390b2a",
+  "active": "dd2f8afb51235693",
   "lastOpenFiles": [
-    "Telegram/onlysfree.md",
-    "Post Erome.md",
-    "Por descargar.md",
+    "Telegram/Personal",
+    "Telegram/Untitled.md",
+    "Telegram/Personal/Por descargar.md",
     "Telegram/Descargas.md",
+    "Telegram/Bussiness/onlysfree.md",
+    "Telegram/Bussiness/Ventas.md",
+    "Telegram/Varios.md",
+    "Post Erome.md",
+    "Telegram/Bussiness",
     "Telegram/Elie/links.md",
     "Telegram/Elie/entregas.md",
     "Untitled 1.md",
@@ -247,7 +239,6 @@
     "Telegram/Elie/post.md",
     "Telegram/Elie/Descargas.md",
     "Data_Science/Python/Data Scientist/Test.md",
-    "Telegram/Ventas.md",
     "conflict-files-obsidian-git.md",
     "Telegram/Elie",
     "Data_Science/Python/Data Scientist/Data Scientist.md",
@@ -263,8 +254,6 @@
     "Data_Science/Python/Data Scientist/Matplotlib",
     "Data_Science/Python/Data Scientist",
     "Data_Science/Python/Data Analysis",
-    "Data_Science/Python/Att",
-    "Telegram/Varios.md",
-    "Z_Att/markdown-cheat-sheet.md"
+    "Data_Science/Python/Att"
   ]
 }
