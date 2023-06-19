@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -241,11 +240,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "184935b1383a4f2b",
+  "active": "967fb4b2e0390b2a",
   "lastOpenFiles": [
-    "Telegram/Elie/links.md",
     "entregas.md",
     "Telegram/Elie/post.md",
+    "Telegram/Elie/links.md",
     "Telegram/Elie/Descargas.md",
     "Telegram/Elie",
     "Data_Science/Python/Cursos.md",
