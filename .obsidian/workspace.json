@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Telegram/Personal/Por descargar.md",
+                    "file": "Telegram/Elie/links.md",
                     "mode": "source",
                     "source": false
                   }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Personal/Por descargar.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Personal/Por descargar.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Personal/Por descargar.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -222,8 +222,9 @@
   },
   "active": "aedca4749f29a85c",
   "lastOpenFiles": [
-    "Telegram/Personal/revisar.md",
+    "Telegram/Elie/Descargas.md",
     "Telegram/Personal/Por descargar.md",
+    "Telegram/Personal/revisar.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/links.md",
     "Telegram/Personal",
@@ -241,7 +242,6 @@
     "#sdsd.md",
     "Z_Att/Hola.md",
     "Telegram/Elie/post.md",
-    "Telegram/Elie/Descargas.md",
     "Data_Science/Python/Data Scientist/Test.md",
     "conflict-files-obsidian-git.md",
     "Telegram/Elie",
