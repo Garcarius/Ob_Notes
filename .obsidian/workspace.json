@@ -25,6 +25,18 @@
                 }
               },
               {
+                "id": "aedca4749f29a85c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Telegram/Elie/links.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "cad0a5b5d20b7fb7",
                 "type": "leaf",
                 "state": {
@@ -52,7 +64,8 @@
                   "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "10e65abfeeb0985e",
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data_Science/Python/Data Scientist/Test.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data_Science/Python/Data Scientist/Test.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data_Science/Python/Data Scientist/Test.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -220,10 +233,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f65413fa6f37086",
+  "active": "aedca4749f29a85c",
   "lastOpenFiles": [
-    "Data_Science/Python/Data Scientist/Data Scientist.md",
+    "conflict-files-obsidian-git.md",
     "Data_Science/Python/Data Scientist/Test.md",
+    "entregas.md",
+    "Telegram/Elie/post.md",
+    "Telegram/Elie/Descargas.md",
+    "Telegram/Elie/links.md",
+    "Telegram/Elie",
+    "Data_Science/Python/Data Scientist/Data Scientist.md",
     "Data_Science/Python/Data Analysis/Data Analysis.md",
     "Data_Science/Untitled.canvas",
     "Data_Science/Python/Cursos.md",
