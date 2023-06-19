@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Telegram/Bussiness/Tamaños.md",
+                    "file": "Telegram/Personal/Por descargar.md",
                     "mode": "source",
                     "source": false
                   }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Personal/Por descargar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Personal/Por descargar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md"
+                "file": "Telegram/Personal/Por descargar.md"
               }
             }
           },
@@ -222,11 +222,12 @@
   },
   "active": "aedca4749f29a85c",
   "lastOpenFiles": [
-    "Telegram/Elie/links.md",
+    "Telegram/Personal/revisar.md",
+    "Telegram/Personal/Por descargar.md",
     "Telegram/Bussiness/Tamaños.md",
+    "Telegram/Elie/links.md",
     "Telegram/Personal",
     "Telegram/Untitled.md",
-    "Telegram/Personal/Por descargar.md",
     "Telegram/Descargas.md",
     "Telegram/Bussiness/onlysfree.md",
     "Telegram/Bussiness/Ventas.md",
@@ -253,7 +254,6 @@
     "Data_Science/Python/Data Scientist/Matplotlib/Matplotlib.md",
     "Data_Science/Python/Data Scientist/Matplotlib/simple plot.md",
     "Data_Science/Python/Data Scientist/Matplotlib/Plots.md",
-    "Data_Science/Python/Data Scientist/Matplotlib/wtara.md",
     "Data_Science/Python/Data Scientist/Matplotlib",
     "Data_Science/Python/Data Scientist",
     "Data_Science/Python/Data Analysis",
