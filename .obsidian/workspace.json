@@ -61,7 +61,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Elie/entregas.md",
+                        "file": "Telegram/Elie/post.md",
                         "mode": "source",
                         "source": false
                       }
@@ -131,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/links.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -220,13 +221,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aedca4749f29a85c",
+  "active": "395459dd7fc60c3a",
   "lastOpenFiles": [
+    "Telegram/Elie/post.md",
+    "Telegram/Elie/links.md",
+    "Telegram/Elie/entregas.md",
     "Telegram/Elie/Descargas.md",
     "Telegram/Personal/Por descargar.md",
     "Telegram/Personal/revisar.md",
     "Telegram/Bussiness/Tamaños.md",
-    "Telegram/Elie/links.md",
     "Telegram/Personal",
     "Telegram/Untitled.md",
     "Telegram/Descargas.md",
@@ -235,13 +238,11 @@
     "Telegram/Varios.md",
     "Post Erome.md",
     "Telegram/Bussiness",
-    "Telegram/Elie/entregas.md",
     "Untitled 1.md",
     "Untitled.md",
     "Pasted image 20221223191810.png",
     "#sdsd.md",
     "Z_Att/Hola.md",
-    "Telegram/Elie/post.md",
     "Data_Science/Python/Data Scientist/Test.md",
     "conflict-files-obsidian-git.md",
     "Telegram/Elie",
