@@ -10,7 +10,7 @@
           {
             "id": "fa82eefa7df6610d",
             "type": "tabs",
-            "dimension": 53.677621283255085,
+            "dimension": 43.11649016641452,
             "children": [
               {
                 "id": "aedca4749f29a85c",
@@ -29,7 +29,7 @@
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 46.322378716744915,
+            "dimension": 56.88350983358548,
             "children": [
               {
                 "id": "b29555b9d2adf062",
@@ -42,13 +42,26 @@
                     "state": {
                       "type": "markdown",
                       "state": {
+                        "file": "Telegram/Bussiness/Tamaños.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "6853096cbb1649c9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
                         "file": "Telegram/Elie/entregas.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "4b6cd50521e97cac",
@@ -221,15 +234,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "395459dd7fc60c3a",
+  "active": "6853096cbb1649c9",
   "lastOpenFiles": [
-    "Telegram/Elie/links.md",
+    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/entregas.md",
+    "Telegram/Elie/links.md",
     "Telegram/Elie/post.md",
     "Telegram/Elie/Descargas.md",
     "Telegram/Personal/Por descargar.md",
     "Telegram/Personal/revisar.md",
-    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Personal",
     "Telegram/Untitled.md",
     "Telegram/Descargas.md",
