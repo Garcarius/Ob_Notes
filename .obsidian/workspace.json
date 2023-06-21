@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Personal/Por descargar.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Personal/Por descargar.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Personal/Por descargar.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -246,14 +246,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1225598162314993",
+  "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
+    "Telegram/Personal/Por descargar.md",
     "Telegram/Elie/post.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/links.md",
     "Telegram/Elie/Descargas.md",
-    "Telegram/Personal/Por descargar.md",
     "Telegram/Personal/revisar.md",
     "Telegram/Personal",
     "Telegram/Untitled.md",
