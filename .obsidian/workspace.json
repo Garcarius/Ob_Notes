@@ -10,7 +10,7 @@
           {
             "id": "fa82eefa7df6610d",
             "type": "tabs",
-            "dimension": 43.11649016641452,
+            "dimension": 25.247971145175836,
             "children": [
               {
                 "id": "aedca4749f29a85c",
@@ -42,31 +42,26 @@
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 56.88350983358548,
+            "dimension": 74.75202885482418,
             "children": [
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 70.96354166666666,
+                "dimension": 73.95833333333334,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
+                      "type": "canvas",
                       "state": {
-                        "file": "Telegram/Elie/entregas.md",
-                        "mode": "source",
-                        "source": false
+                        "file": "Data_Science/Untitled.canvas",
+                        "viewState": {
+                          "x": -8,
+                          "y": -28,
+                          "zoom": 0
+                        }
                       }
-                    }
-                  },
-                  {
-                    "id": "6853096cbb1649c9",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
                     }
                   }
                 ]
@@ -74,7 +69,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 29.036458333333332,
+                "dimension": 26.041666666666668,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -168,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Data_Science/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Data_Science/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/entregas.md"
+                "file": "Data_Science/Untitled.canvas"
               }
             }
           },
@@ -243,12 +238,20 @@
   },
   "active": "395459dd7fc60c3a",
   "lastOpenFiles": [
+    "Data_Science/Python/Cursos.md",
+    "Z_Att/markdown-cheat-sheet.md",
+    "Z_Att/Pasted image 20230103105135.png",
+    "Telegram/Bussiness/Erome.md",
+    "Z_Att/Untitled.md",
+    "Z_Att/Post Erome.md",
+    "Telegram/Personal/Cosas.md",
+    "Z_Att/Hola.md",
+    "Telegram/Bussiness/Por descargar.md",
+    "Telegram/Personal/apps.md",
+    "Telegram/Elie/entregas.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/post.md",
-    "Telegram/Bussiness/Erome.md",
     "Telegram/Elie/links.md",
-    "Telegram/Elie/entregas.md",
-    "Telegram/Personal/Por descargar.md",
     "Telegram/Elie/Descargas.md",
     "Telegram/Personal/revisar.md",
     "Telegram/Personal",
@@ -257,24 +260,17 @@
     "Telegram/Bussiness/onlysfree.md",
     "Telegram/Bussiness/Ventas.md",
     "Telegram/Varios.md",
-    "Z_Att/Post Erome.md",
     "Telegram/Bussiness",
     "Untitled 1.md",
     "Untitled.md",
     "Pasted image 20221223191810.png",
     "#sdsd.md",
-    "Z_Att/Hola.md",
     "Data_Science/Python/Data Scientist/Test.md",
     "conflict-files-obsidian-git.md",
     "Telegram/Elie",
     "Data_Science/Python/Data Scientist/Data Scientist.md",
-    "Data_Science/Python/Data Analysis/Data Analysis.md",
     "Data_Science/Untitled.canvas",
-    "Data_Science/Python/Cursos.md",
-    "Data_Science/Python/Scientific Computing/Scientific Computing.md",
     "Data_Science/Python/Scientific Computing",
-    "Data_Science/Python/Data Scientist/Matplotlib/Matplotlib.md",
-    "Data_Science/Python/Data Scientist/Matplotlib/simple plot.md",
     "Data_Science/Python/Data Scientist/Matplotlib",
     "Data_Science/Python/Data Scientist",
     "Data_Science/Python/Data Analysis",
