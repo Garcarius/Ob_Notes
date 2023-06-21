@@ -30,14 +30,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Telegram/Personal/Por descargar.md",
+                    "file": "Telegram/Elie/post.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "0e76f9fe57e74de8",
@@ -87,7 +86,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Bussiness/Erome.md",
+                        "file": "Telegram/Elie/post.md",
                         "mode": "source",
                         "source": false
                       }
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -246,14 +245,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "6853096cbb1649c9",
   "lastOpenFiles": [
-    "Telegram/Personal/Por descargar.md",
-    "Telegram/Bussiness/Erome.md",
     "Telegram/Elie/post.md",
+    "Telegram/Bussiness/Erome.md",
+    "Telegram/Elie/links.md",
+    "Telegram/Personal/Por descargar.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Bussiness/Tamaños.md",
-    "Telegram/Elie/links.md",
     "Telegram/Elie/Descargas.md",
     "Telegram/Personal/revisar.md",
     "Telegram/Personal",
