@@ -60,9 +60,6 @@ https://direct-link.net/127445/pack-689-toveyah   ppv:  https://lbx.to/s/nvMrgUz
 Brndav   ʌɐpuɹᙠ
 https://link-center.net/127445/pck-679-brndv
 
-daniescalonap   🄳🄰🄽🄸🄴🅂🄲🄰🄻🄾🄽🄰🄿
-https://link-hub.net/127445/pck-666-dnsclnp
-
 asiansquatgirl   |ɿiǫƚɒupꙅᴎɒiꙅɒ
 https://link-center.net/127445/pack-691-asiansquatgirl
 
