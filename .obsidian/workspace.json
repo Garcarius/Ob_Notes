@@ -55,7 +55,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Bussiness/Tamaños.md",
+                        "file": "Telegram/Elie/entregas.md",
                         "mode": "source",
                         "source": false
                       }
@@ -69,8 +69,7 @@
                       "state": {}
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "4b6cd50521e97cac",
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -242,14 +241,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "dd2f8afb51235693",
   "lastOpenFiles": [
-    "Telegram/Bussiness/Erome.md",
+    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/post.md",
+    "Telegram/Bussiness/Erome.md",
     "Telegram/Elie/links.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Personal/Por descargar.md",
-    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/Descargas.md",
     "Telegram/Personal/revisar.md",
     "Telegram/Personal",
