@@ -47,7 +47,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 65.625,
+                "dimension": 40.10416666666667,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -79,7 +79,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 34.375,
+                "dimension": 59.895833333333336,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -87,7 +87,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Elie/post.md",
+                        "file": "Telegram/Bussiness/Erome.md",
                         "mode": "source",
                         "source": false
                       }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Bussiness/Erome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Bussiness/Erome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Bussiness/Erome.md"
               }
             }
           },
@@ -248,8 +248,9 @@
   },
   "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
-    "Telegram/Personal/Por descargar.md",
     "Telegram/Elie/post.md",
+    "Telegram/Bussiness/Erome.md",
+    "Telegram/Personal/Por descargar.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/links.md",
@@ -279,7 +280,6 @@
     "Data_Science/Python/Scientific Computing",
     "Data_Science/Python/Data Scientist/Matplotlib/Matplotlib.md",
     "Data_Science/Python/Data Scientist/Matplotlib/simple plot.md",
-    "Data_Science/Python/Data Scientist/Matplotlib/Plots.md",
     "Data_Science/Python/Data Scientist/Matplotlib",
     "Data_Science/Python/Data Scientist",
     "Data_Science/Python/Data Analysis",
