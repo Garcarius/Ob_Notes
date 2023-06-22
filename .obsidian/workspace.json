@@ -53,14 +53,11 @@
                     "id": "395459dd7fc60c3a",
                     "type": "leaf",
                     "state": {
-                      "type": "canvas",
+                      "type": "markdown",
                       "state": {
-                        "file": "Data_Science/Untitled.canvas",
-                        "viewState": {
-                          "x": -8,
-                          "y": -28,
-                          "zoom": 0
-                        }
+                        "file": "Data_Science/Python/Cursos.md",
+                        "mode": "source",
+                        "source": false
                       }
                     }
                   }
@@ -163,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data_Science/Untitled.canvas",
+                "file": "Data_Science/Python/Cursos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data_Science/Untitled.canvas",
+                "file": "Data_Science/Python/Cursos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data_Science/Untitled.canvas"
+                "file": "Data_Science/Python/Cursos.md"
               }
             }
           },
@@ -238,6 +235,7 @@
   },
   "active": "395459dd7fc60c3a",
   "lastOpenFiles": [
+    "Data_Science/Untitled.canvas",
     "Data_Science/Python/Cursos.md",
     "Z_Att/markdown-cheat-sheet.md",
     "Z_Att/Pasted image 20230103105135.png",
@@ -268,8 +266,6 @@
     "Data_Science/Python/Data Scientist/Test.md",
     "conflict-files-obsidian-git.md",
     "Telegram/Elie",
-    "Data_Science/Python/Data Scientist/Data Scientist.md",
-    "Data_Science/Untitled.canvas",
     "Data_Science/Python/Scientific Computing",
     "Data_Science/Python/Data Scientist/Matplotlib",
     "Data_Science/Python/Data Scientist",
