@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/links.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -232,10 +232,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aedca4749f29a85c",
+  "active": "395459dd7fc60c3a",
   "lastOpenFiles": [
-    "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
+    "Telegram/Elie/entregas.md",
     "Data_Science/Python/Cursos.md",
     "Data_Science/Untitled.canvas",
     "Z_Att/markdown-cheat-sheet.md",
