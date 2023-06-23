@@ -1,8 +1,31 @@
 
 *****************
 ********************
+nataliafadeev
+https://mega.nz/folder/jVIjzaCI#44h6chFCTl4Z7sc22Tbwig
 
+Annarita Esposito
+https://mega.nz/folder/h3FV1azB#y83f3Qj4_rmw_ED38bRWoQ
 
+ella shaparenko
+https://mega.nz/folder/Mz41kBQb#5XY2ZGTF_YsMgLbbWOmgqA
+
+WETKITTY_OF
+Pic
+https://cyberdrop.me/a/00bgE7n0
+https://cyberdrop.me/a/F1vpZJTH
+Vid
+https://cyberdrop.me/a/m1sfW01s
+https://cyberdrop.me/a/VW3tmSw6 (8GB)
+https://cyberdrop.me/a/P4Nc3Ic3 (20GB)
+
+https://bunkrr.su/a/H8xMWVeL
+https://bunkrr.su/a/EyvlZXoW
+https://bunkrr.su/a/rrAlP6JJ
+https://bunkrr.su/a/fTjDsSHr
+
+ARIABOOBIE
+https://mega.nz/folder/3EIRlAwR#RtNuVKzlPbKYauf1dg2l5g
 *****************
 *****************
 

@@ -35,8 +35,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "e741bf293380c59f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Telegram/Elie/links.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "0e76f9fe57e74de8",
@@ -143,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -159,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Por descargar.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Por descargar.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Por descargar.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -232,15 +246,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aedca4749f29a85c",
+  "active": "e741bf293380c59f",
   "lastOpenFiles": [
+    "Telegram/Elie/post.md",
     "Telegram/Personal/Cosas.md",
-    "Literatura/Vainas pa Leer.md",
     "Telegram/Bussiness/Por descargar.md",
+    "Literatura/Vainas pa Leer.md",
     "Telegram/Descargas.md",
     "Telegram/Elie/links.md",
     "Telegram/Elie/entregas.md",
-    "Telegram/Elie/post.md",
     "Literatura",
     "Data_Science/Python/Cursos.md",
     "Data_Science/Untitled.canvas",
