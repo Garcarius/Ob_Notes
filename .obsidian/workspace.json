@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Telegram/Elie/links.md",
+                    "file": "Telegram/Bussiness/Por descargar.md",
                     "mode": "source",
                     "source": false
                   }
@@ -46,7 +46,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 44.921875,
+                "dimension": 46.74479166666667,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -65,7 +65,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 55.078125,
+                "dimension": 53.255208333333336,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -73,7 +73,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Literatura/Vainas pa Leer.md",
+                        "file": "Telegram/Personal/Cosas.md",
                         "mode": "source",
                         "source": false
                       }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literatura/Vainas pa Leer.md",
+                "file": "Telegram/Personal/Cosas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literatura/Vainas pa Leer.md",
+                "file": "Telegram/Personal/Cosas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literatura/Vainas pa Leer.md"
+                "file": "Telegram/Personal/Cosas.md"
               }
             }
           },
@@ -234,11 +234,13 @@
   },
   "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
     "Literatura/Vainas pa Leer.md",
-    "Literatura",
-    "Telegram/Elie/entregas.md",
+    "Telegram/Bussiness/Por descargar.md",
+    "Telegram/Descargas.md",
     "Telegram/Elie/links.md",
+    "Telegram/Elie/entregas.md",
+    "Telegram/Elie/post.md",
+    "Literatura",
     "Data_Science/Python/Cursos.md",
     "Data_Science/Untitled.canvas",
     "Z_Att/markdown-cheat-sheet.md",
@@ -248,14 +250,12 @@
     "Z_Att/Post Erome.md",
     "Telegram/Personal/Cosas.md",
     "Z_Att/Hola.md",
-    "Telegram/Bussiness/Por descargar.md",
     "Telegram/Personal/apps.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/Descargas.md",
     "Telegram/Personal/revisar.md",
     "Telegram/Personal",
     "Telegram/Untitled.md",
-    "Telegram/Descargas.md",
     "Telegram/Bussiness/onlysfree.md",
     "Telegram/Bussiness/Ventas.md",
     "Telegram/Varios.md",
