@@ -48,7 +48,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "0e76f9fe57e74de8",
@@ -84,8 +85,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "4b6cd50521e97cac",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -257,13 +257,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41bb961e9c5e1612",
+  "active": "395459dd7fc60c3a",
   "lastOpenFiles": [
+    "Telegram/Personal/Cosas.md",
     "Telegram/Elie/entregas.md",
+    "Telegram/Elie/links.md",
     "Telegram/Bussiness/Por descargar.md",
     "Telegram/Bussiness/Erome.md",
-    "Telegram/Personal/Cosas.md",
-    "Telegram/Elie/links.md",
     "Telegram/Elie/post.md",
     "Literatura/Vainas pa Leer.md",
     "Telegram/Descargas.md",
