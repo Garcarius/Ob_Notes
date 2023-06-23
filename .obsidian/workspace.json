@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Personal/Cosas.md",
+                "file": "Telegram/Bussiness/Por descargar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Personal/Cosas.md",
+                "file": "Telegram/Bussiness/Por descargar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Personal/Cosas.md"
+                "file": "Telegram/Bussiness/Por descargar.md"
               }
             }
           },
@@ -232,8 +232,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "aedca4749f29a85c",
   "lastOpenFiles": [
+    "Telegram/Personal/Cosas.md",
     "Literatura/Vainas pa Leer.md",
     "Telegram/Bussiness/Por descargar.md",
     "Telegram/Descargas.md",
@@ -248,7 +249,6 @@
     "Telegram/Bussiness/Erome.md",
     "Z_Att/Untitled.md",
     "Z_Att/Post Erome.md",
-    "Telegram/Personal/Cosas.md",
     "Z_Att/Hola.md",
     "Telegram/Personal/apps.md",
     "Telegram/Bussiness/Tamaños.md",
