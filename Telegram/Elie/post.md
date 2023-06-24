@@ -18,3 +18,18 @@ https://mega.nz/folder/hPtFlKgS#xTxIxTvX2qhZgpoMEW6M6A
 Disfruta y recuerda que seguimos aqui para cuando desees mas contenido.
 
 Recomiéndanos con tus amigos !!!
+
+
+
+
+onlysfree.com
+
+Team Telegram @Pala_Merda
+
+Channel https://t.me/+v1d2-cHCwsQ3OGUx
+
+Backup channel https://t.me/Palamerdamenu
+
+Twitter: https://twitter.com/Pala_Merda
+
+Discord: https://discord.gg/ZkBKEgJX6x
