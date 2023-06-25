@@ -59,7 +59,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 53.645833333333336,
+                "dimension": 53.64583333333333,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -67,7 +67,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Elie/entregas.md",
+                        "file": "solo ppvs.md",
                         "mode": "source",
                         "source": false
                       }
@@ -85,13 +85,12 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 46.35416666666667,
+                "dimension": 46.354166666666664,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -185,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "solo ppvs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "solo ppvs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "solo ppvs.md"
               }
             }
           },
@@ -258,15 +257,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "395459dd7fc60c3a",
   "lastOpenFiles": [
-    "Telegram/Bussiness/Erome.md",
-    "Telegram/Elie/post.md",
+    "Telegram/Elie/entregas.md",
+    "solo ppvs.md",
     "Telegram/Bussiness/Tamaños.md",
+    "Telegram/Elie/post.md",
+    "Telegram/Bussiness/Erome.md",
     "Telegram/Elie/links.md",
     "Telegram/Bussiness/Ventas.md",
     "Telegram/Personal/Cosas.md",
-    "Telegram/Elie/entregas.md",
     "Telegram/Bussiness/Por descargar.md",
     "Literatura/Vainas pa Leer.md",
     "Telegram/Descargas.md",
@@ -291,7 +291,6 @@
     "Pasted image 20221223191810.png",
     "#sdsd.md",
     "Data_Science/Python/Data Scientist/Test.md",
-    "conflict-files-obsidian-git.md",
     "Telegram/Elie",
     "Data_Science/Python/Scientific Computing",
     "Data_Science/Python/Data Scientist/Matplotlib",
