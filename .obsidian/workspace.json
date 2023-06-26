@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Bussiness/Tamaños.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Bussiness/Tamaños.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Bussiness/Tamaños.md"
               }
             }
           },
@@ -257,13 +257,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "e741bf293380c59f",
   "lastOpenFiles": [
+    "Telegram/Elie/post.md",
     "Telegram/Bussiness/Tamaños.md",
     "solo ppvs.md",
     "Telegram/Bussiness/Erome.md",
     "Telegram/Elie/entregas.md",
-    "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
     "Telegram/Bussiness/Ventas.md",
     "Telegram/Personal/Cosas.md",
