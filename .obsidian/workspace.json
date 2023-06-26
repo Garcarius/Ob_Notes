@@ -10,7 +10,7 @@
           {
             "id": "fa82eefa7df6610d",
             "type": "tabs",
-            "dimension": 51.64319248826291,
+            "dimension": 28.700361010830328,
             "children": [
               {
                 "id": "aedca4749f29a85c",
@@ -54,12 +54,12 @@
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 48.35680751173709,
+            "dimension": 71.29963898916968,
             "children": [
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 41.276041666666664,
+                "dimension": 71.875,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -68,6 +68,18 @@
                       "type": "markdown",
                       "state": {
                         "file": "solo ppvs.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "d608cd48dd8552f0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Telegram/Elie/entregas.md",
                         "mode": "source",
                         "source": false
                       }
@@ -85,12 +97,13 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 58.72395833333333,
+                "dimension": 28.125,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -184,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -257,11 +270,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "d608cd48dd8552f0",
   "lastOpenFiles": [
-    "Telegram/Bussiness/Tamaños.md",
-    "Telegram/Elie/post.md",
     "solo ppvs.md",
+    "Telegram/Elie/post.md",
+    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Bussiness/Erome.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
