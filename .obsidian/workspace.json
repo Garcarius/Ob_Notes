@@ -71,7 +71,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 45.442708333333336,
+                "dimension": 65.234375,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -115,7 +115,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 54.55729166666667,
+                "dimension": 34.765625,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -287,8 +287,8 @@
   "lastOpenFiles": [
     "Telegram/Elie/post.md",
     "Telegram/Elie/entregas.md",
-    "Telegram/Elie/links.md",
     "solo ppvs.md",
+    "Telegram/Elie/links.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Bussiness/Erome.md",
     "Telegram/Bussiness/Ventas.md",
