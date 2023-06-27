@@ -71,7 +71,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 59.895833333333336,
+                "dimension": 51.5625,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -115,7 +115,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 40.10416666666667,
+                "dimension": 48.4375,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -283,10 +283,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41bb961e9c5e1612",
+  "active": "833ab74d2a4d24b4",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
     "Telegram/Bussiness/Erome.md",
+    "Telegram/Elie/post.md",
     "solo ppvs.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
