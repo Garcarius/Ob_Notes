@@ -37,3 +37,8 @@ Backup channel https://t.me/Palamerdamenu
 Twitter: https://twitter.com/Pala_Merda
 
 Discord: https://discord.gg/ZkBKEgJX6x
+
+
+akgouveia
+annicpn
+kaumartini
