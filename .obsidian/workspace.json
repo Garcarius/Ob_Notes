@@ -10,7 +10,7 @@
           {
             "id": "fa82eefa7df6610d",
             "type": "tabs",
-            "dimension": 51.956181533646316,
+            "dimension": 36.87150837988827,
             "children": [
               {
                 "id": "aedca4749f29a85c",
@@ -66,12 +66,12 @@
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 48.04381846635368,
+            "dimension": 63.128491620111724,
             "children": [
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 44.80457578646329,
+                "dimension": 69.79166666666666,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -115,7 +115,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 55.19542421353671,
+                "dimension": 30.208333333333332,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -136,9 +136,21 @@
                         "source": false
                       }
                     }
+                  },
+                  {
+                    "id": "33372f01c3d21683",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Language/Libanese/Lib.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "horizontal"
@@ -219,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -292,10 +304,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edd04d878b038d19",
+  "active": "d608cd48dd8552f0",
   "lastOpenFiles": [
-    "Telegram/Bussiness/Tamaños.md",
+    "Language/Libanese/Lib.md",
     "Telegram/Elie/post.md",
+    "Language/Libanese",
+    "Language",
+    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
     "Telegram/Bussiness/Erome.md",
@@ -322,15 +337,12 @@
     "Telegram/Varios.md",
     "Telegram/Bussiness",
     "Untitled 1.md",
-    "Untitled.md",
     "Pasted image 20221223191810.png",
     "#sdsd.md",
-    "Data_Science/Python/Data Scientist/Test.md",
     "Telegram/Elie",
     "Data_Science/Python/Scientific Computing",
     "Data_Science/Python/Data Scientist/Matplotlib",
     "Data_Science/Python/Data Scientist",
-    "Data_Science/Python/Data Analysis",
-    "Data_Science/Python/Att"
+    "Data_Science/Python/Data Analysis"
   ]
 }
