@@ -30,7 +30,8 @@ afwan = youre welcome
 merhaba = hi
 sabah el jer = good morning
 masa el jer = good afternoon /night
-
+la halla2 ktir mnih = so far so good
+Ra7 de2elo l ahad = ill call him on sunday
 
 ginasavagex
 
@@ -96,7 +97,8 @@ Cuándo?	aymat
 Ayer	elberha
 Hoy (mañana/tarde/noche)	Lyom (sabah/deher/masa)
 Mañana	boukra
-Lunes, martes, miércoles, jueves, viernes, sábado, domingo	tanen, taleta; ourbaa, khamis, jemaa; sabet, ahad
+Lunes, martes, miércoles, jueves, viernes, sábado, domingo	
+tanen, taleta;  ourbaa,      khamis, jemaa; sabet, ahad
 Estoy aquí de vacaciones / de viaje	jeye siyeha/safar
 Estoy aquí por trabajo	jeye kermel sheghel/aamel
 A la mesa!
