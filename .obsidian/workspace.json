@@ -71,7 +71,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 55.338541666666664,
+                "dimension": 55.33854166666667,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -115,7 +115,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 44.66145833333333,
+                "dimension": 44.661458333333336,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -214,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -231,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/links.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -304,10 +303,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "833ab74d2a4d24b4",
+  "active": "d608cd48dd8552f0",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
+    "Telegram/Elie/post.md",
     "Telegram/Elie/entregas.md",
     "Language/Libanese/Lib.md",
     "Language/Libanese",

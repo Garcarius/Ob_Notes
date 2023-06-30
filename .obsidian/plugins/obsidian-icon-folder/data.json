@@ -3,9 +3,15 @@
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "twemoji",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "🧑‍🎓",
+      "💻",
+      "RiArtboardFill",
+      "🐍",
+      "👨‍🔬"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -15,5 +21,17 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  }
+  },
+  "Data_Science": {
+    "iconName": "👨‍🔬",
+    "inheritanceIcon": "🧑‍🔬"
+  },
+  "Excalidraw": {
+    "iconName": null,
+    "inheritanceIcon": "🖌"
+  },
+  "Data_Science/Python": "🐍",
+  "Data_Science/Python/Data Analysis": "RiArtboardFill",
+  "Data_Science/Python/Scientific Computing": "💻",
+  "Data_Science/Python/Cursos.md": "🧑‍🎓"
 }
