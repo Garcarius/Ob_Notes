@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -304,10 +304,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edd04d878b038d19",
+  "active": "833ab74d2a4d24b4",
   "lastOpenFiles": [
-    "Telegram/Elie/links.md",
     "Telegram/Elie/post.md",
+    "Telegram/Elie/links.md",
     "Telegram/Elie/entregas.md",
     "Language/Libanese/Lib.md",
     "Language/Libanese",
