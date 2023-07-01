@@ -32,8 +32,9 @@ sabah el jer = good morning
 masa el jer = good afternoon /night
 la halla2 ktir mnih = so far so good
 Ra7 de2elo l ahad = ill call him on sunday
+Shou hal bzeza = that tits
+Shou hal tiz = that ass
 
-ginasavagex
 
 Expresiones básicas / más comunes
 Español	Libanais

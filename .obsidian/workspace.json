@@ -71,7 +71,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 60.53384175405148,
+                "dimension": 42.31770833333333,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -115,7 +115,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 39.46615824594852,
+                "dimension": 57.682291666666664,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -150,7 +150,7 @@
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "horizontal"
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md",
+                "file": "Language/Libanese/Lib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md",
+                "file": "Language/Libanese/Lib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md"
+                "file": "Language/Libanese/Lib.md"
               }
             }
           },
@@ -304,10 +304,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41bb961e9c5e1612",
+  "active": "33372f01c3d21683",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
     "Telegram/Bussiness/Erome.md",
+    "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
     "Language/Libanese/Lib.md",
     "Telegram/Elie/entregas.md",
