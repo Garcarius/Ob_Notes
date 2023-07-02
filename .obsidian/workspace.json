@@ -61,7 +61,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "0e76f9fe57e74de8",
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md",
+                "file": "Telegram/Bussiness/Tamaños.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md",
+                "file": "Telegram/Bussiness/Tamaños.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md"
+                "file": "Telegram/Bussiness/Tamaños.md"
               }
             }
           },
@@ -304,10 +304,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41bb961e9c5e1612",
+  "active": "e741bf293380c59f",
   "lastOpenFiles": [
-    "Language/Libanese/Lib.md",
     "Telegram/Bussiness/Erome.md",
+    "Language/Libanese/Lib.md",
     "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
     "Telegram/Elie/entregas.md",

@@ -18,9 +18,6 @@
 
 
 /media/Datos/Pcks
-
-
-9,3G	sabrina20165925
 8,9G	TayyLavie @onlyfansisfree on tg
 8,9G	skylewaifu
 8,8G	Hana_C4
