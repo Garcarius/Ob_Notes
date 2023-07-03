@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -341,11 +341,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41bb961e9c5e1612",
+  "active": "765851f9561c6967",
   "lastOpenFiles": [
-    "Telegram/Bussiness/Erome.md",
     "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
+    "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Bussiness/Erome.md",
     "Telegram/Movieworld/Movie links.md",
     "Telegram/Elie/Elie.md",
     "Languages/Languages.md",
@@ -362,7 +363,6 @@
     "Telegram/Bussiness/Bussiness.md",
     "Telegram/Movieworld/Movieworld.md",
     "Telegram/Elie/entregas.md",
-    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Movieworld",
     "Telegram/Elie/solo ppvs.md",
     "Telegram/Movieworld",
