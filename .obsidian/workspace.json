@@ -98,7 +98,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 37.109375,
+                "dimension": 69.27083333333334,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -137,12 +137,12 @@
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 1
               },
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 62.890625,
+                "dimension": 30.729166666666668,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -341,8 +341,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "765851f9561c6967",
   "lastOpenFiles": [
+    "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
     "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movies Entregas.md",
@@ -362,7 +363,6 @@
     "Telegram/Descargas.md",
     "Telegram/Bussiness/Bussiness.md",
     "Telegram/Movieworld/Movieworld.md",
-    "Telegram/Elie/entregas.md",
     "Telegram/Movieworld",
     "Telegram/Elie/solo ppvs.md",
     "Telegram/Movieworld",
