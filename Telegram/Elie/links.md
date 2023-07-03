@@ -3,8 +3,31 @@ Dana Hamm
 https://mega.nz/folder/uKommSzB#7wC_o0dv0IkCwcDsWkV1Pg
 
 Mila Sobolov
+https://mega.nz/folder/l6YVGIJZ#9Q9_7FmxqU81aZc6E3nTjQ
 
+Arilaviee
+https://mega.nz/folder/bpYV2YyR#53Y3Y7Z7VqA0touo0SZrWQ
 
+HeeyHely
+https://mega.nz/folder/AGsUSKgB#stCoFvwLupmTJrjV1gR7Ow
+
+Katie Murch
+https://mega.nz/folder/4UsFTApJ#Pa5wHs3vF6zgeA8UvBBp-A
+
+The gorillagrip
+https://pastelink.net/axrbzjpo
+
+Erzabelx
+https://mega.nz/folder/Eo830ISJ#sCtSHtOmibslojTFZ5Y8Sw
+
+Olivia.Maeday
+https://mega.nz/folder/NXpAxRpR#GnPetRUXEyQCqJxv5C_6lg
+
+Corinna Kopf 
+https://mega.nz/folder/wCciAZqA#GMXO-76rzAek3_TFA913pw
+
+Rachelbaelin
+https://mega.nz/folder/0bUVyL4a#yRy7UsIHWCxbEBH63Lx31g
 
 ****
 ****

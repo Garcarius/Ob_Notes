@@ -8,70 +8,97 @@
         "type": "split",
         "children": [
           {
-            "id": "fa82eefa7df6610d",
-            "type": "tabs",
-            "dimension": 55.24256651017214,
+            "id": "74fc19f8c7c8f1dc",
+            "type": "split",
+            "dimension": 45.00891265597148,
             "children": [
               {
-                "id": "aedca4749f29a85c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Telegram/Bussiness/Por descargar.md",
-                    "mode": "source",
-                    "source": false
+                "id": "fa82eefa7df6610d",
+                "type": "tabs",
+                "dimension": 68.09895833333334,
+                "children": [
+                  {
+                    "id": "aedca4749f29a85c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Telegram/Bussiness/Por descargar.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "1225598162314993",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Telegram/Elie/post.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "e741bf293380c59f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Telegram/Bussiness/Tamaños.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "765851f9561c6967",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Telegram/Elie/links.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                }
+                ],
+                "currentTab": 3
               },
               {
-                "id": "1225598162314993",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Telegram/Elie/post.md",
-                    "mode": "source",
-                    "source": false
+                "id": "5695278b78636c83",
+                "type": "tabs",
+                "dimension": 31.901041666666668,
+                "children": [
+                  {
+                    "id": "553befc012f5ab4e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Telegram/Movieworld/Movie links.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                }
-              },
-              {
-                "id": "e741bf293380c59f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Telegram/Bussiness/Tamaños.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "833ab74d2a4d24b4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Telegram/Elie/links.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+                ]
               }
             ],
-            "currentTab": 3
+            "direction": "horizontal"
           },
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 44.75743348982786,
+            "dimension": 54.99108734402852,
             "children": [
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 53.385416666666664,
+                "dimension": 37.109375,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -79,7 +106,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "solo ppvs.md",
+                        "file": "Telegram/Elie/solo ppvs.md",
                         "mode": "source",
                         "source": false
                       }
@@ -115,18 +142,10 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 46.61458333333333,
+                "dimension": 62.890625,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "edd04d878b038d19",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -138,19 +157,38 @@
                     }
                   },
                   {
-                    "id": "33372f01c3d21683",
+                    "id": "edd04d878b038d19",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Language/Libanese/Lib.md",
+                        "file": "Telegram/Elie/solo ppvs.md",
                         "mode": "source",
                         "source": false
                       }
                     }
+                  },
+                  {
+                    "id": "3ef97b4657642037",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Telegram/Movieworld/Movieworld.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "33372f01c3d21683",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "horizontal"
@@ -214,8 +252,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -304,45 +341,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "833ab74d2a4d24b4",
+  "active": "765851f9561c6967",
   "lastOpenFiles": [
-    "Telegram/Bussiness/Tamaños.md",
+    "Telegram/Movieworld/Movie links.md",
     "Telegram/Elie/post.md",
-    "Telegram/Bussiness/Erome.md",
-    "Language/Libanese/Lib.md",
     "Telegram/Elie/links.md",
+    "Telegram/Elie/Elie.md",
+    "Telegram/Bussiness/Erome.md",
+    "Languages/Languages.md",
+    "Languages/English.md",
+    "Languages/Swedish.md",
+    "Telegram/Telegram.md",
+    "Languages/German.md",
+    "Languages/French.md",
+    "Languages/Libanese/Libanese.md",
+    "Languages/Libanese/Lib.md",
+    "Data_Science/Python/Data Scientist/Test.md",
+    "Telegram/Varios.md",
+    "Telegram/Descargas.md",
+    "Telegram/Bussiness/Bussiness.md",
+    "Telegram/Movieworld/Movieworld.md",
     "Telegram/Elie/entregas.md",
-    "Language/Libanese",
-    "Language",
-    "solo ppvs.md",
+    "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Movieworld",
+    "Telegram/Elie/solo ppvs.md",
+    "Telegram/Movieworld",
+    "Telegram/Bussiness/Tamaños.md",
+    "Languages/Libanese",
+    "Languages",
     "Telegram/Bussiness/Ventas.md",
     "Telegram/Personal/Cosas.md",
     "Telegram/Bussiness/Por descargar.md",
     "Literatura/Vainas pa Leer.md",
-    "Telegram/Descargas.md",
     "Literatura",
-    "Data_Science/Python/Cursos.md",
     "Data_Science/Untitled.canvas",
-    "Z_Att/markdown-cheat-sheet.md",
     "Z_Att/Pasted image 20230103105135.png",
-    "Z_Att/Untitled.md",
-    "Z_Att/Post Erome.md",
-    "Z_Att/Hola.md",
-    "Telegram/Personal/apps.md",
-    "Telegram/Elie/Descargas.md",
-    "Telegram/Personal/revisar.md",
     "Telegram/Personal",
-    "Telegram/Untitled.md",
-    "Telegram/Bussiness/onlysfree.md",
-    "Telegram/Varios.md",
     "Telegram/Bussiness",
-    "Untitled 1.md",
     "Pasted image 20221223191810.png",
-    "#sdsd.md",
     "Telegram/Elie",
     "Data_Science/Python/Scientific Computing",
-    "Data_Science/Python/Data Scientist/Matplotlib",
-    "Data_Science/Python/Data Scientist",
-    "Data_Science/Python/Data Analysis"
+    "Data_Science/Python/Data Scientist/Matplotlib"
   ]
 }
