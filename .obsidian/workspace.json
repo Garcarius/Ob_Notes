@@ -10,7 +10,7 @@
           {
             "id": "fa82eefa7df6610d",
             "type": "tabs",
-            "dimension": 36.4968152866242,
+            "dimension": 55.24256651017214,
             "children": [
               {
                 "id": "aedca4749f29a85c",
@@ -61,17 +61,17 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 63.503184713375795,
+            "dimension": 44.75743348982786,
             "children": [
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 75.40514775977121,
+                "dimension": 53.385416666666664,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -115,7 +115,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 24.59485224022879,
+                "dimension": 46.61458333333333,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -150,7 +150,7 @@
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 1
               }
             ],
             "direction": "horizontal"
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -304,16 +304,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e741bf293380c59f",
+  "active": "833ab74d2a4d24b4",
   "lastOpenFiles": [
+    "Telegram/Bussiness/Tamaños.md",
+    "Telegram/Elie/post.md",
     "Telegram/Bussiness/Erome.md",
     "Language/Libanese/Lib.md",
-    "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
     "Telegram/Elie/entregas.md",
     "Language/Libanese",
     "Language",
-    "Telegram/Bussiness/Tamaños.md",
     "solo ppvs.md",
     "Telegram/Bussiness/Ventas.md",
     "Telegram/Personal/Cosas.md",
