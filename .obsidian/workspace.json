@@ -15,7 +15,7 @@
               {
                 "id": "fa82eefa7df6610d",
                 "type": "tabs",
-                "dimension": 68.09895833333334,
+                "dimension": 68.09895833333333,
                 "children": [
                   {
                     "id": "aedca4749f29a85c",
@@ -71,7 +71,7 @@
               {
                 "id": "5695278b78636c83",
                 "type": "tabs",
-                "dimension": 31.901041666666668,
+                "dimension": 31.901041666666664,
                 "children": [
                   {
                     "id": "553befc012f5ab4e",
@@ -98,7 +98,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 69.27083333333334,
+                "dimension": 69.27083333333333,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -142,7 +142,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 30.729166666666668,
+                "dimension": 30.729166666666664,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/links.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -341,10 +341,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "765851f9561c6967",
+  "active": "d608cd48dd8552f0",
   "lastOpenFiles": [
-    "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
+    "Telegram/Elie/entregas.md",
     "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Bussiness/Erome.md",
