@@ -28,15 +28,19 @@ Mega iokxbgr@hi2.in  Pass: iokxbgr@hi2.in
 
 DaniellaChavez
 https://lbx.to/s/rMOp41r
+https://mega.nz/folder/Vr9mQbqQ#aAk6_ZuLWyKVrBEBy4UhEA
 
 Lildedjanet
 https://lbx.to/s/ou4vpp8
+https://mega.nz/folder/ZrV1yTbZ#_YpogVED5wcQFetzqKndBw
 
 Vivianelomelin
 https://lbx.to/s/0v769tN
+https://mega.nz/folder/12djBBZS#ocfqG9ifdgOl3jgi09RUjg
 
 Wettmelons
 https://lbx.to/s/OT9Y5HB
+https://mega.nz/folder/lmFwFDLK#9vmVqz3AldIBCkVjQJp3PQ
 
 ****
 
