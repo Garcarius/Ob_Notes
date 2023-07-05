@@ -72,6 +72,23 @@ https://mega.nz/folder/AuMzmZAZ#gbPvZOJLYFYSiBxZ66Tw4g
 ****
 
 ### 05-07-23
+Mega: hshzx@hi2.in Pass: hshzx@hi2.in
+
+Alyri
+https://lbx.to/s/Qq7Poqn
+https://mega.nz/folder/pncRzQKZ#SLsjHLv7t6Nn0ZqyE7eD5g
+
+kellicarter
+https://lbx.to/s/rc94BBg
+https://mega.nz/folder/czFAlAIA#5VSWGjCfLS3Hozw9ODtLYg
+
+onlyshams
+https://lbx.to/s/U4tegKK
+https://mega.nz/folder/p7slxb5R#jYEb397xW6R2JO9ZqvCIWw
+
+Tammii
+https://lbx.to/s/kLDyeOT
+https://mega.nz/folder/9rFiVSbY#h4gUFHJIt12ztvbeEg4Xow
 
 ### 06-07-23
 
