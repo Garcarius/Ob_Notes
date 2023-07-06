@@ -116,3 +116,15 @@ https://mega.nz/folder/pr8WQD7L#epg3FJuacEb5oZjdxwF13A
 
 ### 06-07-23
 
+Mega: sqqynvf@hi2.in  Pass: sqqynvf@hi2.in
+LexiGriswold
+https://lbx.to/s/NVGmIIl
+https://mega.nz/folder/NCklDAoD#B6qVS9y2O_X3QD9ND7CbKQ
+
+Minitinah02
+https://lbx.to/s/HhdJSDb
+https://mega.nz/folder/YHFnCK4D#QdOsLHIPboCZ5QepHO5IwA
+
+winterswonderland
+https://lbx.to/s/JC1UFxB
+https://mega.nz/folder/1H8TlKJK#w7T_cRVToQ6s2Pve08Ko2A
