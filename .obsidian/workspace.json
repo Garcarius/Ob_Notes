@@ -30,18 +30,6 @@
                     }
                   },
                   {
-                    "id": "1225598162314993",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Telegram/Elie/post.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
                     "id": "e741bf293380c59f",
                     "type": "leaf",
                     "state": {
@@ -77,8 +65,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 3
+                ]
               },
               {
                 "id": "5695278b78636c83",
@@ -280,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Bussiness/Por descargar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Bussiness/Por descargar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/links.md"
+                "file": "Telegram/Bussiness/Por descargar.md"
               }
             }
           },
@@ -353,7 +340,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "765851f9561c6967",
+  "active": "aedca4749f29a85c",
   "lastOpenFiles": [
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/links.md",
