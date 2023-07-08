@@ -1,3 +1,26 @@
+#### 08-07-23
+Karli Mergenthaler
+https://mega.nz/folder/4np0wDwK#pM-7oP1PpOtFulEP-5ruNA
+
+Izzybunnies
+https://mega.nz/folder/LQcCDQBI#R-F6BnNkCCtYHmO2EQws5g/folder/6c9igDbD
+
+sophie lauren
+https://mega.nz/folder/xzdnSKyD#dw1fYMtF9wiMpChA3TDLIQ
+
+Rita Shark
+https://mega.nz/folder/o28FmLib#hOmuLyiDb6qierdaMjxgWA
+
+callmeslooo
+https://mega.nz/folder/sDdyBQ4b#TnDfnxmw4UTuxfiQgnuLZQ
+
+Elle Grenn
+https://mega.nz/folder/xDgGkDLL#ehlFVC3fl_jJ6wfkMXhioQ/folder/hTZ0CL6J
+
+Ur4vity
+https://mega.nz/folder/kSVGHCKI#1hS9buUEY8lHWgagOrrYCA
+
+
 ####  07-07-23
 Royalwednesday
 https://mega.nz/folder/4GVyEZbL#UlLrbNBmpDDa_Q4qYWdcTw
