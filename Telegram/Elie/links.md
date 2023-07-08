@@ -1,3 +1,19 @@
+#### 08-07-23
+zoemommy444 / zoe_consagra
+https://mega.nz/folder/5T0WWT6K#OHVWJmjfGK3bOZ1AyHqsGA
+
+
+Vega_Thompson
+https://mega.nz/folder/Fy0yAZAZ#Fi5Ixa9wvHEA8x9nbCAcCQ
+
+EmilyKnight 
+https://mega.nz/folder/gPQAnawK#QQvSFjfbkMaPseguu3XTxg/folder/FO4gxLyb
+
+JulieJess
+https://mega.nz/folder/F3MSAYwT#w28SY9wYJpD-uDUy0MQLlA
+
+Itsellexo
+https://mega.nz/folder/RfEUWabR#JKKMsqZzxmbI-v85TUTWPw
 
 #### 06-07-23
 lphiyn@hi2.in

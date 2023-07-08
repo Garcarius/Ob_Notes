@@ -191,23 +191,29 @@ Mega atbzbs@hi2.in
 
 Karli Mergenthaler
 https://lbx.to/s/zlIbPad
+https://mega.nz/folder/QX8hFbDI#BhX2tTA6gJ5Zz6mrhAhqdw
 
 Izzybunnies
 https://lbx.to/s/uVNwm5s
+https://mega.nz/folder/9CM2zYYB#NNx2HOjUvnYE2III_tDxeg
 
 sophie lauren
 https://lbx.to/s/0KVi9LP
+https://mega.nz/folder/BK9V3bLD#0YdrCJe28ALd84KOz5pBeQ
 
 Rita Shark
 https://lbx.to/s/usEBiOT
+https://mega.nz/folder/1eF0hJhb#aOBZzi29nsQyho_5Sh3dBA
 
 callmeslooo
 https://lbx.to/s/v68tvVH
-https://lbx.to/s/21bw85N
+https://mega.nz/folder/AKdlhLgL#FZ87n0ClkNMWGR80NiPRQQ
 
 
 Elle Grenn
 https://lbx.to/s/ID9mcpg
+https://mega.nz/folder/FKV2lRgT#XaNG_fkBBAODmCXsd1Z3mQ
 
 Ur4vity
 https://lbx.to/s/21bw85N
+https://mega.nz/folder/4bcE3BrJ#IfzdjddvG1L1V3oDtimLaA
