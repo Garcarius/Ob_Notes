@@ -264,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -356,9 +355,9 @@
   },
   "active": "41bb961e9c5e1612",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movie links.md",
     "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Elie/post.md",
     "Telegram/Bussiness/Erome.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
