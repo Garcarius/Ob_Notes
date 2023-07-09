@@ -9,6 +9,28 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 
 ****
 ****
+
+#### 09-07-23
+zoemommy444 / zoe_consagra
+https://lbx.to/s/8uRuCyx
+https://mega.nz/folder/JuMT3DDC#_0QO0ghsaECBedi1okaleg
+
+Vega_Thompson
+https://lbx.to/s/bWpEyTF
+https://mega.nz/folder/VvECXDqT#AKVy_KpuMbZkc6hVWo-vYQ
+
+EmilyKnight 
+https://lbx.to/s/KW4X4L9
+https://mega.nz/folder/drVA0AJT#qEmvzK0F4oVidhGssJBK8A
+
+JulieJess
+https://lbx.to/s/y3DmX6Y
+https://mega.nz/folder/drlk0Qbb#1YvcbmGBH7E1RxPS2BYNkQ
+
+Itsellexo
+https://lbx.to/s/pGuKwzh
+https://mega.nz/folder/IvUWlRSA#dNjdwWrPbfZO7A8R6_Ghbg
+
 #### set 1
 
 DanaHamm 
