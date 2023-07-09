@@ -5,6 +5,24 @@ https://mega.nz/folder/Rysn3C6a#s9G5bvb1B-J0lHOymliggg
 Lilith Cavaliere
 https://mega.nz/folder/8MY2iALC#eN1uaDikZc2QrWhdylWZVA
 
+Corinna Kopf
+https://mega.nz/folder/BykHAB7J#myD95kISKZyjDQfoqhfZsQ
+
+Natalie Roush
+https://mega.nz/folder/U6cwCArK#8LTlPeQjC9v6eA8xt465kg
+
+MollyEskam
+https://mega.nz/folder/Mi1h0RZY#GNhaaaJdor3FkaI9kb9R1g
+
+MilaMonte
+https://mega.nz/folder/KAJCBSba#6hfkD52x1LZ8BEymD6JvBQ/folder/TRJyxBpa
+
+Mariedee
+https://mega.nz/folder/56oj2J7L#Ev4gd2iq2fycmnhwRnDODg
+
+Malejandraq
+https://mega.nz/folder/djtTCYjT#tXs03YacEqIZhSMhPrla3w
+
 
 *****
 
