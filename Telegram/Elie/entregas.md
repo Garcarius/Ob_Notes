@@ -10,10 +10,30 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 ****
 ****
 
+#### 10-07-23
+BrendaTrindade
+https://lbx.to/s/PUIEmNT
+https://mega.nz/folder/12lF2LSJ#qCjway0iI1DwjRPySUBzeQ
+
+Goddessjasmin
+https://lbx.to/s/vgbtRut
+https://mega.nz/folder/8zMXxC7K#zq96vlisB_jDXUfoG5He5Q
+
+LittlePolishAngel
+https://lbx.to/s/dsnzyKw
+https://mega.nz/folder/BicgQSzZ#2eawyclY1c2Bf1RTk329fQ
+
+Pinkmars
+https://lbx.to/s/bEMljh1
+https://mega.nz/folder/wysmyL6B#Robj4BbKC_YONjwl12G3dQ
+
+
 #### 09-07-23
 zoemommy444 / zoe_consagra
 https://lbx.to/s/8uRuCyx
 https://mega.nz/folder/JuMT3DDC#_0QO0ghsaECBedi1okaleg
+
+
 
 Vega_Thompson
 https://lbx.to/s/bWpEyTF
