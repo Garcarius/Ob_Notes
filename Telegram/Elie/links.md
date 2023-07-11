@@ -8,7 +8,7 @@ https://bunkrr.su/a/mzA89nZY
 
 
 Ariana Lu / arianaxlu
-https://bunkrr.su/a/fQJMMgLo#
+https://bunkrr.su/a/fQJMMgLo
 https://bunkrr.su/a/oH9IkQr6
 https://bunkrr.su/a/8mXL1ZKC
 
