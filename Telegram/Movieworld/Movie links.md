@@ -1,3 +1,32 @@
+#### 11-07-23
+lisaterhorstt ok
+https://mega.nz/folder/pz0RjJSS#Gkz66wPPiHF7E1ahcxt5nQ
+
+Nadine Kerastas
+https://mega.nz/folder/JD1zQTAD#4nfshRrU5ove8sCpnxZaEA
+
+Vanessy
+https://mega.nz/folder/lGdRDajI#xwBaGGUEmEQpp--uhIaqbw
+
+lorengray  ok
+https://mega.nz/folder/cBx2TY6K#nINX8fimx1cO81WyI8sxeg
+
+BabieLamb
+https://mega.nz/folder/VZp1mLiZ#ZlWM2etH4S-wbBIZn18FiQ
+
+Sozzlepop ok
+https://mega.nz/folder/h682HYbS#QpZ9n340vTvpSkkggVTOgQ
+
+Nataliereynolds
+https://mega.nz/folder/gPplzBJT#9bege7XpzWoO1akQbefGOg
+
+Chloe Grey
+https://mega.nz/folder/VDgTiSoa#akkVK5Gw8I6_deNez1ZmlQ
+
+Vanessa RHD
+https://mega.nz/folder/ectDjKzI#LBiPX2wk-XQ_2g5d--oSXw
+
+
 #### 10-07-23
 helen-ivy
 https://mega.nz/folder/kA4QhAhD#dWvahLK-9vuXfClsloZzZA
