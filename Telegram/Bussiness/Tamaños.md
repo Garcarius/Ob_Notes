@@ -1,3 +1,5 @@
+rmdir /s /q XD
+
 /media/documentos/pedidos
 13G	gemthejewels
 8,0G	mythiccalofficial
