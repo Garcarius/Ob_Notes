@@ -1,4 +1,4 @@
-rmdir /s /q XD
+rmdir /s /q H@i1eyqu3en 
 
 /media/documentos/pedidos
 13G	gemthejewels
