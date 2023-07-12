@@ -9,6 +9,27 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 
 ****
 ****
+#### 11-07-23
+LaiDawud
+https://lbx.to/s/XT0O1ou
+https://mega.nz/folder/5m9zxYbJ#qJSuKlIuhNG5Pb__BTPD9g
+
+Ariana Lu / arianaxlu
+https://lbx.to/s/7qNsJvp
+https://mega.nz/folder/M69CzSAI#WJrEHk3Q5HJQE1n83-Socw
+
+
+Nivnixxi
+https://lbx.to/s/quuFoqv
+https://mega.nz/folder/YvdkjaIZ#y6LVEhjm3Sj_k2okWKN4_g
+
+ValentinaOlivas
+https://lbx.to/s/F0UidpY
+https://mega.nz/folder/BuM2HK5S#USiw-qXsB2u9qkMnmZvDBg
+
+Praewasian
+https://lbx.to/s/DP4X0AE
+https://mega.nz/folder/YvdkjaIZ#y6LVEhjm3Sj_k2okWKN4_g
 
 #### 10-07-23
 BrendaTrindade

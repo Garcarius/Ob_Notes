@@ -1,3 +1,28 @@
+#### 12-07-23
+MeliMTX
+https://mega.nz/folder/5upUECwY#K1CI0GOYB_NIhxXNJtx6Ig/folder/9noECBKD
+
+Maddy Belle
+https://mega.nz/folder/AOZ2yZKb#-fkzSbditRMdl-4kKnNNkg
+
+Safiyaax / Sofiallia
+https://mega.nz/folder/1vEmlSoQ#VLWgfE-2SBS_lpW-LLoEEQ
+
+autumnp0wersxo
+https://mega.nz/folder/s6ESnKjS#lnUSOnq1et-_FzbP-XrRAQ
+
+ssamanthasimmonss
+https://mega.nz/folder/Mu10QRzY#dRfZ7RLHR_tMRrR2shLsqQ
+
+redheadnazavip
+https://mega.nz/folder/4jsnRKBB#M1XhnAwVg0S5T8pLP3QjXQ
+
+milkimind
+https://mega.nz/folder/IisXgDSK#gW6iu0SOoFMtVYITIw3tLw
+
+FREYA MAYER
+https://mega.nz/folder/h4gzUJgB#VM730MLZ-RHXhzC-EXCETA/folder/kkpmFAQQ
+
 #### 11-07-23
 lisaterhorstt ok
 https://mega.nz/folder/pz0RjJSS#Gkz66wPPiHF7E1ahcxt5nQ
