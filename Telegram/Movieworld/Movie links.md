@@ -1,3 +1,17 @@
+
+#### 13-07-23
+Alex Mucci
+https://mega.nz/folder/0ERyGCoY#hQps1ZZWofofj6j9qoLRDQ
+
+Senya Marin
+https://mega.nz/folder/UilEmZ7L#AFOmvwnQ2s5o_p7HpRWWLw
+
+Cherry Apricots
+https://mega.nz/folder/LYQxVQrL#yiky8InccXUwtSJkffRtFw/folder/2A4RzJrC
+
+Simens Sofia
+https://mega.nz/folder/bigBRI6a#K1pYLzYW8cO-69L2Pxts2g
+
 #### 12-07-23
 MeliMTX
 https://mega.nz/folder/5upUECwY#K1CI0GOYB_NIhxXNJtx6Ig/folder/9noECBKD
