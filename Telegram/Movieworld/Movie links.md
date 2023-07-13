@@ -12,6 +12,15 @@ https://mega.nz/folder/LYQxVQrL#yiky8InccXUwtSJkffRtFw/folder/2A4RzJrC
 Simens Sofia
 https://mega.nz/folder/bigBRI6a#K1pYLzYW8cO-69L2Pxts2g
 
+Nickii Baby
+https://mega.nz/folder/8RdUnbQB#smWSmLzdni5YWyNtuSKPcg
+
+Mila Sobolov
+https://mega.nz/folder/079wwaRT#s1W1woQJqZtNYgM3E-azqw
+
+Alina Rose
+https://mega.nz/folder/Ui9XESwD#9yfPP9V7V7WxFt7I3do6kw
+
 #### 12-07-23
 MeliMTX
 https://mega.nz/folder/5upUECwY#K1CI0GOYB_NIhxXNJtx6Ig/folder/9noECBKD

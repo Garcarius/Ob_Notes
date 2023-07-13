@@ -1,4 +1,4 @@
-rmdir /s /q Movie 
+rmdir /s /q "Elie" 
 
 /media/documentos/pedidos
 13G	gemthejewels
