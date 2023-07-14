@@ -15,6 +15,15 @@ https://mega.nz/folder/V61gFCBJ#Vz3H7loHvX35VxXdUMmIYw
 Paige Woolen
 https://mega.nz/folder/wqcHDShY#LO_pMICP4lEgh6mA131KeA/folder/tqtBFZTa
 
+Sneesnaw
+https://mega.nz/folder/Crpi3QjQ#gWaqr5PTyMyqCH0o9FyWAQ
+
+Sedona Sky
+https://mega.nz/folder/BD5HAYpZ#GcDY-WZkVFDrskp3AFXTAw/folder/9LIiFbCJ
+
+MADISON DICKSON
+https://mega.nz/folder/UntASDiK#ZglsyMC-BOjYRALVYeRnuw
+
 #### 13-07-23
 Alex Mucci
 https://mega.nz/folder/0ERyGCoY#hQps1ZZWofofj6j9qoLRDQ
