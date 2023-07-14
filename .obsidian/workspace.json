@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -342,12 +342,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e741bf293380c59f",
+  "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
+    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movie links.md",
     "Telegram/Elie/links.md",
-    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Bussiness/Por descargar.md",
