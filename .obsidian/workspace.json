@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Bussiness/Por descargar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Bussiness/Por descargar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Bussiness/Por descargar.md"
               }
             }
           },
@@ -342,10 +342,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "aedca4749f29a85c",
   "lastOpenFiles": [
-    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/post.md",
+    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Movieworld/Movie links.md",
     "Telegram/Elie/links.md",
     "Telegram/Elie/entregas.md",
