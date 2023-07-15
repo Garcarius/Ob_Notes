@@ -1,4 +1,4 @@
-rmdir /s /q "Movie" 
+rmdir /s /q "MEGAsync Downloads" 
 
 Correo: maranchavi97@gmail.com
 Clave: Soytefa.97
