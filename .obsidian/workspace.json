@@ -53,7 +53,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               },
               {
                 "id": "5695278b78636c83",
@@ -269,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -342,14 +343,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e741bf293380c59f",
+  "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
     "Telegram/Movieworld/Movie links.md",
+    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
     "Telegram/Elie/post.md",
-    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Bussiness/Por descargar.md",
     "Telegram/Bussiness/Erome.md",
     "Telegram/Elie/solo ppvs.md",
