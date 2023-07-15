@@ -6,8 +6,12 @@ Sincerlyjuju
 https://mega.nz/folder/9RQTDTpY#3KKYFxPP4-knWslXMtjxzg
 
 Xofreja
+https://mega.nz/folder/EJNi0SqC#_Z_L0Vyc7INrp6eoNASRzw
 
 Gwenhoney
+https://mega.nz/folder/wiZlAIaR#_Kkh-Q5i5b0UZrQTxMp1Lw
+
+
 #### 14-07-23
 
 Yee33haw
