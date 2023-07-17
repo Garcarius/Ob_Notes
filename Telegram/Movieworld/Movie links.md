@@ -1,3 +1,12 @@
+#### 17-07-23
+Marina Mui
+https://mega.nz/folder/gady1Q4Y#LgiB9OdIfeWW0mAfS2hqbw/folder/VXtWULzA
+
+Alanarose8
+https://mega.nz/folder/En1RyIpS#IN0wFO7snOK8cSkG785iYg/folder/Qm012TTT
+
+alexisreid
+https://mega.nz/folder/KYclUBRb#eHAE2ux2eX22QVChAPDCFQ
 
 #### 16-07-23
 jakara mitchell
