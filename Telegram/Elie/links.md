@@ -1,5 +1,18 @@
 
-#### 16-07-23
+#### 17-07-23
+MartinaVismara
+https://mega.nz/folder/MqcxjLgJ#TRwyxbPi1AjmuLnQMffLwA
+
+FernandaAquino
+https://mega.nz/folder/tfNEQbTY#oZCtg01FEczC7Cb6J7zmIQ
+
+Izzy Bunnies
+https://mega.nz/folder/9CM2zYYB#NNx2HOjUvnYE2III_tDxeg
+
+Cannabunni3
+https://mega.nz/folder/krgkBD5S#dINFu6uQXaqDc9wMsh4fQQ
+
+Lilded Janet
 
 
 #### 15-03-23

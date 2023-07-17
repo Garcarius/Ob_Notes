@@ -53,7 +53,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "5695278b78636c83",
@@ -269,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -342,14 +343,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41bb961e9c5e1612",
+  "active": "5b7388155816e0a4",
   "lastOpenFiles": [
+    "Telegram/Movieworld/Movie links.md",
+    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/post.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/links.md",
-    "Telegram/Movieworld/Movies Entregas.md",
-    "Telegram/Movieworld/Movie links.md",
     "Telegram/Bussiness/Por descargar.md",
     "Telegram/Bussiness/Erome.md",
     "Telegram/Elie/solo ppvs.md",
