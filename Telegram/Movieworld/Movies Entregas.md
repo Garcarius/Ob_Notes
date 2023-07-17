@@ -1,6 +1,20 @@
 https://mega.nz/folder/HThw0AjQ#Dl7r7yjmyu10c0zJ6s0WZw
 ****
 
+#### 17-07-23
+
+soogsx
+https://lbx.to/s/I8bayQN
+https://mega.nz/folder/VnVXDACZ#wjUyVWnjFbNtnuGVvJiWvg
+
+LauraSommaruga
+https://lbx.to/s/4wKX8sd
+https://mega.nz/folder/86l2CZZb#0P-KtIcAH0-NN0-Yn5gjKw
+
+Karamitch
+https://lbx.to/s/Yx3s1g3
+https://mega.nz/folder/d7tX0YLI#D_ccLuENChc33ftVpU0HPw
+
 #### 15-07-23
 Nataliexking
 https://lbx.to/s/HbTjMqe
