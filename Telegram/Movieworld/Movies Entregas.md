@@ -1,5 +1,39 @@
 https://mega.nz/folder/HThw0AjQ#Dl7r7yjmyu10c0zJ6s0WZw
 ****
+#### 19-07-23
+
+#### 18-07-23
+Alanarose8
+https://lbx.to/s/TAYtgNF
+https://mega.nz/folder/3zBBVIpK#lMqKjTBFS4ksaLRwYt2lYA
+
+alexisreid
+https://lbx.to/s/QVIO0Ad
+https://mega.nz/folder/GvwxSIDS#SbV71yx5546ChtZATKXiRg
+
+cryptobaddie
+https://lbx.to/s/nAKhszm
+https://mega.nz/folder/mnRSkTqY#ojVjxwNifqJv-M078fBJGA
+
+GizemSavage
+https://lbx.to/s/LuqeKNi
+https://mega.nz/folder/6rATHYzD#M3MxYDUT2RafPEnbWXr3jQ
+
+MarinaMui
+https://lbx.to/s/ff2XuCg
+https://mega.nz/folder/GrYgSLTb#9Jtp6Wk0HEQiB60jnHEWuQ
+
+NatalieRoush
+https://lbx.to/s/T5B9PSe
+https://mega.nz/folder/7zpFmBJT#jTc-NLuAuDfm2L1RcqULYQ
+
+Pragmatica
+https://lbx.to/s/VcSEnZb
+https://mega.nz/folder/ymggxRKT#pOWSXVIOiUuLiKBOvUJLJA
+
+ValentinaOliva
+https://lbx.to/s/VcSEnZb
+https://mega.nz/folder/yiRxWIQa#iBSeF99t3q4z5eiIIp_aOg
 
 #### 17-07-23
 
