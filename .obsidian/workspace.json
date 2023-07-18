@@ -151,7 +151,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Elie/post.md",
+                        "file": "comandos_pip.md",
                         "mode": "source",
                         "source": false
                       }
@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "comandos_pip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "comandos_pip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "comandos_pip.md"
               }
             }
           },
@@ -336,6 +336,9 @@
   },
   "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
+    "Linux/Alias.md",
+    "Linux/Linux.md",
+    "Telegram/Elie/post.md",
     "Telegram/Personal/comandos.md",
     "Telegram/Elie/solo ppvs.md",
     "Telegram/Movieworld/Movieworld.md",
@@ -344,13 +347,10 @@
     "comandos_pip.md",
     "Telegram/Elie/entregas.md",
     "Excalidraw/Drawing 2022-12-19 19.03.20.excalidraw.md",
-    "Linux/Linux.md",
-    "Linux/Alias.md",
     "Windows/Windows.md",
     "Windows",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Telegram.md",
-    "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
     "Linux",
     "Telegram/Bussiness/Por descargar.md",
