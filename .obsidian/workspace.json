@@ -151,7 +151,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Personal/comandos.md",
+                        "file": "Telegram/Elie/post.md",
                         "mode": "source",
                         "source": false
                       }
@@ -181,8 +181,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 2
+                ]
               }
             ],
             "direction": "horizontal"
@@ -246,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -263,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Movieworld/Movie links.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Movieworld/Movie links.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Movieworld/Movie links.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -336,27 +334,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8df6c0dccf530bae",
+  "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
-    "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Personal/comandos.md",
+    "Telegram/Elie/solo ppvs.md",
+    "Telegram/Movieworld/Movieworld.md",
     "Telegram/Movieworld/Movie links.md",
+    "Telegram/Movieworld/Movies Entregas.md",
     "comandos_pip.md",
     "Telegram/Elie/entregas.md",
-    "Telegram/Movieworld/Movieworld.md",
     "Excalidraw/Drawing 2022-12-19 19.03.20.excalidraw.md",
     "Linux/Linux.md",
     "Linux/Alias.md",
     "Windows/Windows.md",
     "Windows",
     "Telegram/Bussiness/Tamaños.md",
-    "Telegram/Personal/comandos.md",
     "Telegram/Telegram.md",
     "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
     "Linux",
     "Telegram/Bussiness/Por descargar.md",
     "Telegram/Bussiness/Erome.md",
-    "Telegram/Elie/solo ppvs.md",
     "Telegram/Elie/Elie.md",
     "Languages/Languages.md",
     "Languages/English.md",
