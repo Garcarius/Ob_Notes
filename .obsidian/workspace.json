@@ -35,7 +35,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Elie/links.md",
+                        "file": "Alias.md",
                         "mode": "source",
                         "source": false
                       }
@@ -253,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -270,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Alias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Alias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/links.md"
+                "file": "Alias.md"
               }
             }
           },
@@ -345,9 +344,12 @@
   },
   "active": "5b7388155816e0a4",
   "lastOpenFiles": [
+    "Linux/Linux.md",
+    "Alias.md",
+    "Telegram/Elie/links.md",
+    "Linux",
     "Telegram/Elie/post.md",
     "Telegram/Elie/entregas.md",
-    "Telegram/Elie/links.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Movieworld/Movie links.md",
     "Telegram/Bussiness/Tamaños.md",
@@ -373,8 +375,6 @@
     "Languages/Libanese",
     "Languages",
     "Telegram/Bussiness/Ventas.md",
-    "Telegram/Personal/Cosas.md",
-    "Literatura/Vainas pa Leer.md",
     "Literatura",
     "Data_Science/Untitled.canvas",
     "Z_Att/Pasted image 20230103105135.png",
@@ -382,7 +382,6 @@
     "Telegram/Bussiness",
     "Pasted image 20221223191810.png",
     "Telegram/Elie",
-    "Data_Science/Python/Scientific Computing",
-    "Data_Science/Python/Data Scientist/Matplotlib"
+    "Data_Science/Python/Scientific Computing"
   ]
 }
