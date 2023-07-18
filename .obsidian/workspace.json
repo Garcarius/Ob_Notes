@@ -35,7 +35,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Alias.md",
+                        "file": "comandos_pip.md",
                         "mode": "source",
                         "source": false
                       }
@@ -151,7 +151,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Elie/post.md",
+                        "file": "Telegram/Personal/comandos.md",
                         "mode": "source",
                         "source": false
                       }
@@ -180,16 +180,9 @@
                         "source": false
                       }
                     }
-                  },
-                  {
-                    "id": "33372f01c3d21683",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
                   }
-                ]
+                ],
+                "currentTab": 2
               }
             ],
             "direction": "horizontal"
@@ -253,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -269,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alias.md",
+                "file": "comandos_pip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alias.md",
+                "file": "comandos_pip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alias.md"
+                "file": "comandos_pip.md"
               }
             }
           },
@@ -344,44 +338,44 @@
   },
   "active": "5b7388155816e0a4",
   "lastOpenFiles": [
+    "Telegram/Movieworld/Movieworld.md",
+    "Excalidraw/Drawing 2022-12-19 19.03.20.excalidraw.md",
+    "comandos_pip.md",
     "Linux/Linux.md",
-    "Alias.md",
+    "Linux/Alias.md",
+    "Windows/Windows.md",
+    "Windows",
+    "Telegram/Bussiness/Tamaños.md",
+    "Telegram/Personal/comandos.md",
+    "Telegram/Elie/entregas.md",
+    "Telegram/Telegram.md",
+    "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
     "Linux",
-    "Telegram/Elie/post.md",
-    "Telegram/Elie/entregas.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Movieworld/Movie links.md",
-    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Bussiness/Por descargar.md",
     "Telegram/Bussiness/Erome.md",
     "Telegram/Elie/solo ppvs.md",
-    "Telegram/Movieworld/Movieworld.md",
     "Telegram/Elie/Elie.md",
     "Languages/Languages.md",
     "Languages/English.md",
     "Languages/Swedish.md",
-    "Telegram/Telegram.md",
     "Languages/German.md",
     "Languages/French.md",
     "Languages/Libanese/Libanese.md",
     "Languages/Libanese/Lib.md",
     "Data_Science/Python/Data Scientist/Test.md",
-    "Telegram/Varios.md",
-    "Telegram/Descargas.md",
-    "Telegram/Bussiness/Bussiness.md",
     "Telegram/Movieworld",
     "Telegram/Movieworld",
     "Languages/Libanese",
     "Languages",
-    "Telegram/Bussiness/Ventas.md",
     "Literatura",
     "Data_Science/Untitled.canvas",
     "Z_Att/Pasted image 20230103105135.png",
     "Telegram/Personal",
     "Telegram/Bussiness",
     "Pasted image 20221223191810.png",
-    "Telegram/Elie",
-    "Data_Science/Python/Scientific Computing"
+    "Telegram/Elie"
   ]
 }

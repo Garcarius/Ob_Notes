@@ -1,3 +1,4 @@
+/home/garcarius/.bash_aliases
 ```shell
 alias ..='cd ..'
 alias ...='cd ../..'
