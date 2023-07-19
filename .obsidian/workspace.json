@@ -42,6 +42,18 @@
                     }
                   },
                   {
+                    "id": "9a2a055df55bcf5f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Telegram/Elie/links.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
                     "id": "8df6c0dccf530bae",
                     "type": "leaf",
                     "state": {
@@ -146,18 +158,6 @@
                 "dimension": 41.40625,
                 "children": [
                   {
-                    "id": "9a2a055df55bcf5f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Telegram/Elie/post.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
                     "id": "edd04d878b038d19",
                     "type": "leaf",
                     "state": {
@@ -245,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -261,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Movieworld/Movies Entregas.md"
               }
             }
           },
@@ -334,10 +335,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "41bb961e9c5e1612",
   "lastOpenFiles": [
-    "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Elie/links.md",
     "Telegram/Elie/post.md",
+    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Movieworld/Movie links.md",
     "Linux/Linux.md",
     "Linux/Alias.md",
@@ -351,7 +353,6 @@
     "Windows",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Telegram.md",
-    "Telegram/Elie/links.md",
     "Linux",
     "Telegram/Bussiness/Por descargar.md",
     "Telegram/Bussiness/Erome.md",
