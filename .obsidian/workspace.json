@@ -138,7 +138,7 @@
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 1
               },
               {
                 "id": "4b6cd50521e97cac",
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -336,9 +336,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "d608cd48dd8552f0",
   "lastOpenFiles": [
     "Telegram/Elie/links.md",
+    "Telegram/Elie/entregas.md",
     "Telegram/Elie/post.md",
     "comandos_pip.md",
     "Linux/Linux.md",
@@ -348,7 +349,6 @@
     "Telegram/Elie/solo ppvs.md",
     "Telegram/Personal/comandos.md",
     "Telegram/Movieworld/Movieworld.md",
-    "Telegram/Elie/entregas.md",
     "Excalidraw/Drawing 2022-12-19 19.03.20.excalidraw.md",
     "Windows/Windows.md",
     "Windows",
