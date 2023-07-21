@@ -15,7 +15,7 @@
               {
                 "id": "fa82eefa7df6610d",
                 "type": "tabs",
-                "dimension": 47.65625,
+                "dimension": 73.95833333333334,
                 "children": [
                   {
                     "id": "e741bf293380c59f",
@@ -59,7 +59,7 @@
               {
                 "id": "5695278b78636c83",
                 "type": "tabs",
-                "dimension": 52.34375,
+                "dimension": 26.041666666666668,
                 "children": [
                   {
                     "id": "553befc012f5ab4e",
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Movieworld/Movie links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Movieworld/Movie links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Movieworld/Movie links.md"
               }
             }
           },
@@ -336,13 +336,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "8df6c0dccf530bae",
   "lastOpenFiles": [
+    "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Movieworld/Movie links.md",
     "Telegram/Bussiness/Por descargar.md",
     "Telegram/Elie/links.md",
-    "Telegram/Elie/post.md",
     "Telegram/Elie/entregas.md",
     "comandos_pip.md",
     "Linux/Linux.md",
