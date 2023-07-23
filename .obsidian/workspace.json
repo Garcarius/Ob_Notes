@@ -15,7 +15,7 @@
               {
                 "id": "fa82eefa7df6610d",
                 "type": "tabs",
-                "dimension": 48.17708333333333,
+                "dimension": 48.177083333333336,
                 "children": [
                   {
                     "id": "e741bf293380c59f",
@@ -59,7 +59,7 @@
               {
                 "id": "5695278b78636c83",
                 "type": "tabs",
-                "dimension": 51.822916666666664,
+                "dimension": 51.82291666666667,
                 "children": [
                   {
                     "id": "553befc012f5ab4e",
@@ -137,7 +137,7 @@
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               },
               {
                 "id": "4b6cd50521e97cac",
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Erome.md"
+                "file": "Telegram/Movieworld/Movies Entregas.md"
               }
             }
           },
@@ -335,8 +335,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "553befc012f5ab4e",
+  "active": "8366438c57f77b68",
   "lastOpenFiles": [
+    "Telegram/Bussiness/Erome.md",
     "Telegram/Bussiness/Por descargar.md",
     "Telegram/Elie/post.md",
     "Telegram/Elie/entregas.md",
@@ -355,7 +356,6 @@
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Telegram.md",
     "Linux",
-    "Telegram/Bussiness/Erome.md",
     "Telegram/Elie/Elie.md",
     "Languages/Languages.md",
     "Languages/English.md",
