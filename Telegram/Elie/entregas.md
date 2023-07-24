@@ -12,9 +12,11 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 #### 24-07-23
 Scarlettkissesxo
 https://lbx.to/s/T9ZYzcS
+https://mega.nz/folder/pylVSDoC#T-PAetmZd9MlvNnklaOkFA
 
 MamaFiona1
 https://lbx.to/s/vme1j5p
+https://mega.nz/folder/p6khUJ6L#eM2tqx_mStrxCGu7yuNgwQ
 
 Lolilealae
 https://lbx.to/s/XvFSNPa
