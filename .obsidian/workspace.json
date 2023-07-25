@@ -99,7 +99,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 48.828125,
+                "dimension": 69.66145833333334,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -143,7 +143,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 51.171875,
+                "dimension": 30.338541666666668,
                 "children": [
                   {
                     "id": "edd04d878b038d19",
@@ -246,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -262,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comandos_pip.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comandos_pip.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comandos_pip.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -335,16 +336,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aedca4749f29a85c",
+  "active": "5b7388155816e0a4",
   "lastOpenFiles": [
     "Telegram/Elie/entregas.md",
+    "Telegram/Elie/links.md",
     "comandos_pip.md",
     "Linux/Linux.md",
     "Linux/Comandos.md",
     "Telegram/Bussiness/Por descargar.md",
     "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movieworld.md",
-    "Telegram/Elie/links.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Movieworld/Movie links.md",
     "Telegram/Bussiness/Erome.md",
