@@ -99,7 +99,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 69.66145833333333,
+                "dimension": 47.39583333333333,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -143,7 +143,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 30.338541666666664,
+                "dimension": 52.604166666666664,
                 "children": [
                   {
                     "id": "edd04d878b038d19",
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comandos_pip.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comandos_pip.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comandos_pip.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -336,16 +336,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aedca4749f29a85c",
+  "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
     "Telegram/Elie/links.md",
+    "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movies Entregas.md",
-    "Telegram/Elie/entregas.md",
     "comandos_pip.md",
+    "Telegram/Elie/entregas.md",
     "Linux/Linux.md",
     "Linux/Comandos.md",
     "Telegram/Bussiness/Por descargar.md",
-    "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movieworld.md",
     "Telegram/Movieworld/Movie links.md",
     "Telegram/Bussiness/Erome.md",
