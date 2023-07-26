@@ -1,5 +1,22 @@
 https://mega.nz/folder/HThw0AjQ#Dl7r7yjmyu10c0zJ6s0WZw
 ****
+#### 25-07-23
+polishmuffin
+https://lbx.to/s/jb0jqBJ
+https://mega.nz/folder/xyFwBC6D#kO6DzOuRPX2-dydpyu7J5w
+
+MadyGio
+https://lbx.to/s/LwA7jqF
+https://mega.nz/folder/8yVwmCLQ#hGVEo8lxpCnjZyvohQUD6Q
+
+JailyneOjeda
+https://lbx.to/s/nEE6oWA
+https://mega.nz/folder/p61whZLA#WMp1jmkAUCTbc2deAD0dOg
+
+ItsPatiKay
+https://lbx.to/s/DJcsbPI
+https://mega.nz/folder/oqNnHbIY#1ezCcTDVZJ-n7e9pwgQLMg
+
 #### 23-07-23
 AlinaBecker
 https://lbx.to/s/QmRjhDk
