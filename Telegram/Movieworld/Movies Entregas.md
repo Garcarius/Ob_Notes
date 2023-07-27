@@ -1,5 +1,30 @@
 https://mega.nz/folder/HThw0AjQ#Dl7r7yjmyu10c0zJ6s0WZw
 ****
+
+#### 27-07-23
+Zipoz
+https://mega.nz/folder/urZ23SDI#1n6xQPJIYZB_RFQiLGHc-A
+
+Theeonlyalaia
+https://lbx.to/s/GREkfku
+https://mega.nz/folder/yzhGCazK#P6KXa1LrBaQHktoNsTsV9g
+
+Selti
+https://lbx.to/s/l2jNEDQ
+https://mega.nz/folder/fiwFxCYa#gKRgqPNnGF2ysLnY1_9cJA
+
+MissCindy
+https://lbx.to/s/z2vx8Bd
+https://mega.nz/folder/O6xUBQaC#ISnuUrCPmq6TA15hCDCIlA
+
+Matiofficial
+https://lbx.to/s/84YhXU0
+https://mega.nz/folder/WrQWlSwJ#C5kQrocfX7fDJDZvRzF3pA
+
+GoddessGuzman
+https://lbx.to/s/QTYTFr9
+https://mega.nz/folder/unQlyKSB#Xy9rPLwlLQEgLoMoIUhXdQ
+
 #### 25-07-23
 polishmuffin
 https://lbx.to/s/jb0jqBJ
