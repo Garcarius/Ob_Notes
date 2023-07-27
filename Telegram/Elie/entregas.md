@@ -9,6 +9,27 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 
 ****
 ****
+angelbaexo
+https://lbx.to/s/wCpmmpr
+https://mega.nz/folder/KmwXWTiD#bPv0Tui3_T_xTK9Vn02U8g
+
+asyabunny
+https://lbx.to/s/pJCgCtS
+https://mega.nz/folder/7y5SASiJ#n-j7Lsn_KsTUohfdxqWksQ
+
+lisaterhorstt
+https://lbx.to/s/ppPfolX
+https://mega.nz/folder/P3Rz3YBA#Zj9WvLtRSJT7cOEGr_tnDw
+
+victorialynnmyers
+https://lbx.to/s/Mz3oXzE
+https://mega.nz/folder/XuRgHQrL#rq4LHYnqu67kw3dW1eyWeg
+
+zoe_consagra
+https://lbx.to/s/AHM4s1x
+https://mega.nz/folder/Dr43TCqb#hFi9O1VlS3acJ99YWdJKaA
+
+
 #### 26-07-23
 ambermoody
 https://lbx.to/s/xyHUM8Y
