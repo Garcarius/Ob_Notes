@@ -9,6 +9,29 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 
 ****
 ****
+
+#### 28-07-23
+amandawelp  
+https://mega.nz/folder/bygTHYbS#E4Avkt4QQjLvbt3w9KxEtg
+
+angelaalvarez
+https://mega.nz/folder/KuYlDAAZ#wwflK0WxTxy5kpQorcV-fA
+
+coconeyx
+https://mega.nz/folder/SzolUDiL#CkHXswtMSEcG_SJplEZwLQ
+
+emilyrayxo
+https://mega.nz/folder/S2RwFKLS#yFbT6JHHmIrr7Cq86EvBcg
+
+meenfox
+https://mega.nz/folder/uqwgkI6D#nmWepho5PI9363w3MhbfRQ
+
+nikkinami
+https://mega.nz/folder/2jxjSB5A#DqIH8LBaCAjmvcLiZIKaOw
+
+
+
+#### 27-07-23
 Kaizokouni
 https://lbx.to/s/0yW5gU5
 https://mega.nz/folder/HnhiRK6Q#RF-DL66Te4vQ3zNl7vYufQ
