@@ -163,7 +163,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Movieworld/Movieworld.md",
+                        "file": "Telegram/Elie/post.md",
                         "mode": "source",
                         "source": false
                       }
@@ -175,14 +175,14 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Elie/post.md",
+                        "file": "Linux/Comandos.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 1
               }
             ],
             "direction": "horizontal"
@@ -336,21 +336,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "3ef97b4657642037",
   "lastOpenFiles": [
+    "Telegram/Movieworld/Movieworld.md",
+    "Telegram/Elie/solo ppvs.md",
+    "Linux/Comandos.md",
+    "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/entregas.md",
-    "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
     "comandos_pip.md",
     "Linux/Linux.md",
-    "Linux/Comandos.md",
     "Telegram/Bussiness/Por descargar.md",
-    "Telegram/Movieworld/Movieworld.md",
     "Telegram/Movieworld/Movie links.md",
     "Telegram/Bussiness/Erome.md",
     "Linux/Alias.md",
-    "Telegram/Elie/solo ppvs.md",
     "Telegram/Personal/comandos.md",
     "Excalidraw/Drawing 2022-12-19 19.03.20.excalidraw.md",
     "Windows/Windows.md",
