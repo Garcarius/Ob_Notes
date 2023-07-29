@@ -99,7 +99,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 59.765625,
+                "dimension": 51.432291666666664,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -143,7 +143,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 40.234375,
+                "dimension": 48.56770833333333,
                 "children": [
                   {
                     "id": "edd04d878b038d19",
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -336,15 +336,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ef97b4657642037",
+  "active": "5b7388155816e0a4",
   "lastOpenFiles": [
     "Telegram/Elie/entregas.md",
+    "Telegram/Elie/links.md",
     "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movieworld.md",
     "Telegram/Elie/solo ppvs.md",
     "Linux/Comandos.md",
     "Telegram/Movieworld/Movies Entregas.md",
-    "Telegram/Elie/links.md",
     "comandos_pip.md",
     "Linux/Linux.md",
     "Telegram/Bussiness/Por descargar.md",
