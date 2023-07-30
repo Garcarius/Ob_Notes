@@ -53,7 +53,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "5695278b78636c83",
@@ -262,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -335,8 +336,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e741bf293380c59f",
+  "active": "5b7388155816e0a4",
   "lastOpenFiles": [
+    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/links.md",
     "comandos_pip.md",
     "Telegram/Elie/post.md",
@@ -354,7 +356,6 @@
     "Excalidraw/Drawing 2022-12-19 19.03.20.excalidraw.md",
     "Windows/Windows.md",
     "Windows",
-    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Telegram.md",
     "Linux",
     "Telegram/Elie/Elie.md",
