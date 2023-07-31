@@ -15,7 +15,7 @@
               {
                 "id": "fa82eefa7df6610d",
                 "type": "tabs",
-                "dimension": 68.22916666666667,
+                "dimension": 49.08854166666667,
                 "children": [
                   {
                     "id": "e741bf293380c59f",
@@ -53,13 +53,12 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "5695278b78636c83",
                 "type": "tabs",
-                "dimension": 31.770833333333336,
+                "dimension": 50.911458333333336,
                 "children": [
                   {
                     "id": "553befc012f5ab4e",
@@ -182,7 +181,7 @@
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "horizontal"
@@ -263,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Linux/Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Linux/Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/entregas.md"
+                "file": "Linux/Comandos.md"
               }
             }
           },
@@ -336,20 +335,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d608cd48dd8552f0",
+  "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
-    "Telegram/Elie/links.md",
     "Telegram/Bussiness/Tamaños.md",
-    "comandos_pip.md",
+    "Telegram/Elie/post.md",
+    "Telegram/Movieworld/Movie links.md",
     "Telegram/Elie/entregas.md",
+    "Telegram/Elie/links.md",
+    "comandos_pip.md",
     "Telegram/Movieworld/Movieworld.md",
     "Telegram/Elie/solo ppvs.md",
     "Linux/Comandos.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Linux/Linux.md",
     "Telegram/Bussiness/Por descargar.md",
-    "Telegram/Movieworld/Movie links.md",
     "Telegram/Bussiness/Erome.md",
     "Linux/Alias.md",
     "Telegram/Personal/comandos.md",

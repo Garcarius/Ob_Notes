@@ -1,1 +1,2 @@
-ffmpeg -i Nalgona.mp4 -ss 00:00:00 -t 00:00:15 -c:v copy -c:a copy Nalgona_cortado.mp4
+ffmpeg -i lesbis.mp4 -ss 00:00:00 -t 00:00:15 -c:v copy -c:a copy lesbi_cortado.mp4
+
