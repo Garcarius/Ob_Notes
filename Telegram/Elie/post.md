@@ -1,6 +1,6 @@
 
 #pino
-BrendaTrindade  @onlyfansisfree on tg
+Wettmelons  @onlyfansisfree on tg
 onlysfree.com  &  @onlyfansisfree on tg
 
 by onlysfree.com 
@@ -9,7 +9,7 @@ by onlysfree.com
 
 
 #Rey
-Zipoz TG - @RareOFHub
+NataliaZoppa TG - @RareOFHub
 
 ****
 
