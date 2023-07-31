@@ -53,7 +53,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "5695278b78636c83",
@@ -262,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Comandos.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Comandos.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Comandos.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -335,17 +336,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "5b7388155816e0a4",
   "lastOpenFiles": [
+    "Telegram/Movieworld/Movie links.md",
+    "Linux/Comandos.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/post.md",
-    "Telegram/Movieworld/Movie links.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
     "comandos_pip.md",
     "Telegram/Movieworld/Movieworld.md",
     "Telegram/Elie/solo ppvs.md",
-    "Linux/Comandos.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Linux/Linux.md",
     "Telegram/Bussiness/Por descargar.md",
