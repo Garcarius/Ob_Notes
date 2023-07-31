@@ -2,6 +2,25 @@ ihearttrenityy
 susana_barbosa
 xosof
 
+#### 01-08-23
+Carlycakesxo
+https://mega.nz/folder/7BsHQYwb#JIMSRjWDxnV1Yz8gvp3uIw
+
+TAYYLAVIE
+https://mega.nz/folder/FMsXWYAI#KZJxVrmgLTHBOSbAw7VlCA
+
+NataliaZoppa
+https://mega.nz/folder/o28whb7D#kTNwiPRWpew6x-JxwwvF5A
+
+Baby Violet
+https://mega.nz/folder/gmsngDDI#_AyW6ZDjXiZgBilShAmhhA
+
+Amy Reynolds
+https://mega.nz/folder/Adt21ArS#NKjgOCste2m1Xzj5pouT-w
+
+Wettmelons
+https://mega.nz/folder/kvdTSDLL#LNoGSj8ivHn1Xs5LR3NAJw
+
 #### 31-07-23
 Monti
 https://mega.nz/folder/E2kGEZaA#8jI49xbAmzm564wyj7SOOg
