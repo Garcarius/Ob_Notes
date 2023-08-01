@@ -15,7 +15,7 @@
               {
                 "id": "fa82eefa7df6610d",
                 "type": "tabs",
-                "dimension": 49.08854166666667,
+                "dimension": 49.088541666666664,
                 "children": [
                   {
                     "id": "e741bf293380c59f",
@@ -26,6 +26,16 @@
                         "file": "Telegram/Bussiness/Tamaños.md",
                         "mode": "source",
                         "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "c8b8ad5a4be5cde3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "release-notes",
+                      "state": {
+                        "currentVersion": "1.3.7"
                       }
                     }
                   },
@@ -53,7 +63,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "5695278b78636c83",
@@ -335,7 +346,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e741bf293380c59f",
+  "active": "c8b8ad5a4be5cde3",
   "lastOpenFiles": [
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
