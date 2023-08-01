@@ -15,7 +15,7 @@
               {
                 "id": "fa82eefa7df6610d",
                 "type": "tabs",
-                "dimension": 49.088541666666664,
+                "dimension": 66.14583333333334,
                 "children": [
                   {
                     "id": "e741bf293380c59f",
@@ -63,12 +63,13 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               },
               {
                 "id": "5695278b78636c83",
                 "type": "tabs",
-                "dimension": 50.911458333333336,
+                "dimension": 33.85416666666667,
                 "children": [
                   {
                     "id": "553befc012f5ab4e",
@@ -272,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -345,16 +346,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ef97b4657642037",
+  "active": "5b7388155816e0a4",
   "lastOpenFiles": [
-    "Telegram/Bussiness/Tamaños.md",
+    "comandos_pip.md",
     "Telegram/Elie/post.md",
+    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Movieworld/Movie links.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Linux/Comandos.md",
-    "comandos_pip.md",
     "Telegram/Movieworld/Movieworld.md",
     "Telegram/Elie/solo ppvs.md",
     "Linux/Linux.md",
