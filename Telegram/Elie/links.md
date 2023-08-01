@@ -9,6 +9,15 @@ https://mega.nz/folder/U8pEHSYQ#iN009EYH1Dcz0bqqZMyTcw
 marinamui
 https://mega.nz/folder/ZdoXgSSC#aBEsOYLXhND9MijEO26ZTQ
 
+SpencerNicks
+https://mega.nz/folder/r2gVXCRY#q1W4ozNLj0rKZwI-JwAyBQ
+
+ᴘʀᴏꜱᴇxx
+https://mega.nz/folder/AmtEXKaS#SGpoD3J7J_GG47B7pVo3iQ
+
+Savana
+https://mega.nz/folder/mYkEGaSD#gDNjd5GCp0rZ35be6yhw8g
+
 
 #### 31-07-23
 Monti
