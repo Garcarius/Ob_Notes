@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 56.65101721439749,
+            "dimension": 33.28290468986384,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -104,12 +104,12 @@
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 43.3489827856025,
+            "dimension": 66.71709531013616,
             "children": [
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 44.140625,
+                "dimension": 62.5,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -153,7 +153,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 55.859375,
+                "dimension": 37.5,
                 "children": [
                   {
                     "id": "edd04d878b038d19",
@@ -348,10 +348,10 @@
   },
   "active": "8366438c57f77b68",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
-    "Telegram/Movieworld/Movies Entregas.md",
-    "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
+    "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Elie/post.md",
+    "Telegram/Elie/entregas.md",
     "Telegram/Bussiness/Tamaños.md",
     "comandos_pip.md",
     "Telegram/Movieworld/Movie links.md",
