@@ -273,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -346,12 +346,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ef97b4657642037",
+  "active": "d608cd48dd8552f0",
   "lastOpenFiles": [
+    "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
     "Telegram/Bussiness/Tamaños.md",
     "comandos_pip.md",
-    "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movie links.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Movieworld/Movies Entregas.md",
