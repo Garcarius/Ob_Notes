@@ -1,5 +1,5 @@
 forzar reinstalacion de programa
 ```shell
-pip install --upgrade --force-reinstall --no-cache-dir cyberdrop-dl
+pip3 install --upgrade --force-reinstall --no-cache-dir cyberdrop-dl
 
 ``
