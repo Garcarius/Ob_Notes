@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 48.71406959152799,
+            "dimension": 29.322638146167556,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -106,12 +106,12 @@
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 51.28593040847201,
+            "dimension": 70.67736185383244,
             "children": [
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 48.828125,
+                "dimension": 29.036458333333332,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -155,7 +155,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 51.171875,
+                "dimension": 70.96354166666666,
                 "children": [
                   {
                     "id": "edd04d878b038d19",
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comandos_pip.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comandos_pip.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comandos_pip.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -347,16 +347,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8b8ad5a4be5cde3",
+  "active": "3ef97b4657642037",
   "lastOpenFiles": [
+    "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Elie/entregas.md",
+    "comandos_pip.md",
     "Linux/Linux.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movie links.md",
-    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/links.md",
-    "Telegram/Elie/entregas.md",
-    "comandos_pip.md",
     "Linux/Comandos.md",
     "Telegram/Movieworld/Movieworld.md",
     "Telegram/Elie/solo ppvs.md",
