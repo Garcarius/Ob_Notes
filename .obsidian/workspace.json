@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 46.79186228482003,
+            "dimension": 40.845070422535215,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -106,12 +106,12 @@
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 53.20813771517997,
+            "dimension": 59.154929577464785,
             "children": [
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 51.692708333333336,
+                "dimension": 69.66145833333334,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -131,31 +131,31 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Elie/entregas.md",
+                        "file": "Telegram/Movieworld/Movies Entregas.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "8366438c57f77b68",
+                    "id": "1f9c30c607bfe31f",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Movieworld/Movies Entregas.md",
+                        "file": "Telegram/Elie/entregas.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               },
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 48.30729166666667,
+                "dimension": 30.338541666666668,
                 "children": [
                   {
                     "id": "edd04d878b038d19",
@@ -348,12 +348,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d608cd48dd8552f0",
+  "active": "1f9c30c607bfe31f",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
+    "comandos_pip.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/entregas.md",
-    "comandos_pip.md",
+    "Telegram/Elie/post.md",
     "Linux/Linux.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Movieworld/Movie links.md",
