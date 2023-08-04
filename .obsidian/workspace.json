@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 40.845070422535215,
+            "dimension": 56.95915279878972,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -106,12 +106,12 @@
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 59.154929577464785,
+            "dimension": 43.04084720121028,
             "children": [
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 69.66145833333334,
+                "dimension": 50.52430886558628,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -155,7 +155,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 30.338541666666668,
+                "dimension": 49.47569113441373,
                 "children": [
                   {
                     "id": "edd04d878b038d19",
@@ -350,14 +350,14 @@
   },
   "active": "5b7388155816e0a4",
   "lastOpenFiles": [
+    "Telegram/Elie/post.md",
+    "Telegram/Elie/links.md",
     "Telegram/Elie/entregas.md",
     "comandos_pip.md",
     "Telegram/Movieworld/Movies Entregas.md",
-    "Telegram/Elie/post.md",
     "Linux/Linux.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Movieworld/Movie links.md",
-    "Telegram/Elie/links.md",
     "Linux/Comandos.md",
     "Telegram/Movieworld/Movieworld.md",
     "Telegram/Elie/solo ppvs.md",
