@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 63.06729264475743,
+            "dimension": 40.544629349470505,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -106,12 +106,12 @@
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 36.93270735524257,
+            "dimension": 59.4553706505295,
             "children": [
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 65.10416666666666,
+                "dimension": 34.50520833333333,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -155,7 +155,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 34.89583333333333,
+                "dimension": 65.49479166666666,
                 "children": [
                   {
                     "id": "edd04d878b038d19",
@@ -275,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/links.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -348,15 +348,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b7388155816e0a4",
+  "active": "3ef97b4657642037",
   "lastOpenFiles": [
-    "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
+    "Telegram/Bussiness/Tamaños.md",
+    "Telegram/Elie/entregas.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/post.md",
     "comandos_pip.md",
     "Telegram/Movieworld/Movie links.md",
-    "Telegram/Bussiness/Tamaños.md",
     "Linux/Linux.md",
     "Linux/Comandos.md",
     "Telegram/Movieworld/Movieworld.md",

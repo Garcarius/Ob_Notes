@@ -1,8 +1,11 @@
 rmdir /s /q "MEGAsync Downloads" 
 
+
+*****
+
 Correo: maranchavi97@gmail.com
 Clave: Soytefa.97
-
+****
 
 /media/Datos/Pcks$ du -hs * | sort -rh | head -20
 7,8G	Amourettie @onlyfansisfree on tg
