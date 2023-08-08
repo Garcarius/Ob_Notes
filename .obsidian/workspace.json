@@ -111,7 +111,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 33.46354166666667,
+                "dimension": 65.10416666666666,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -150,12 +150,12 @@
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 1
               },
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 66.53645833333334,
+                "dimension": 34.89583333333333,
                 "children": [
                   {
                     "id": "edd04d878b038d19",
@@ -275,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/entregas.md"
+                "file": "Telegram/Movieworld/Movies Entregas.md"
               }
             }
           },
@@ -348,10 +348,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f9c30c607bfe31f",
+  "active": "d608cd48dd8552f0",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
     "Telegram/Elie/entregas.md",
+    "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "comandos_pip.md",
     "Telegram/Movieworld/Movie links.md",
