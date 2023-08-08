@@ -111,7 +111,7 @@
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 52.473958333333336,
+                "dimension": 52.47395833333333,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -155,7 +155,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 47.52604166666667,
+                "dimension": 47.526041666666664,
                 "children": [
                   {
                     "id": "edd04d878b038d19",
@@ -275,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Movieworld/Movies Entregas.md"
               }
             }
           },
@@ -348,10 +348,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ef97b4657642037",
+  "active": "d608cd48dd8552f0",
   "lastOpenFiles": [
-    "comandos_pip.md",
     "Telegram/Elie/post.md",
+    "comandos_pip.md",
     "Telegram/Movieworld/Movie links.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/entregas.md",
