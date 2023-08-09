@@ -275,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comandos_pip.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comandos_pip.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comandos_pip.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -348,14 +348,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aedca4749f29a85c",
+  "active": "1f9c30c607bfe31f",
   "lastOpenFiles": [
+    "comandos_pip.md",
     "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Movieworld/Movies Entregas.md",
-    "comandos_pip.md",
     "Telegram/Movieworld/Movie links.md",
     "Linux/Linux.md",
     "Linux/Comandos.md",
