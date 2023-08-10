@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 68.70109546165885,
+            "dimension": 52.895148669796555,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -105,7 +105,7 @@
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 31.29890453834116,
+            "dimension": 47.104851330203445,
             "children": [
               {
                 "id": "b29555b9d2adf062",
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -347,7 +347,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e741bf293380c59f",
+  "active": "3ef97b4657642037",
   "lastOpenFiles": [
     "Telegram/Elie/entregas.md",
     "Telegram/Bussiness/Tamaños.md",
