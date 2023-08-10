@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 42.13313161875946,
+            "dimension": 68.70109546165885,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -105,7 +105,7 @@
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 57.86686838124054,
+            "dimension": 31.29890453834116,
             "children": [
               {
                 "id": "b29555b9d2adf062",
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Bussiness/Tamaños.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Bussiness/Tamaños.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Bussiness/Tamaños.md"
               }
             }
           },
@@ -347,13 +347,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ef97b4657642037",
+  "active": "e741bf293380c59f",
   "lastOpenFiles": [
-    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/entregas.md",
+    "Telegram/Bussiness/Tamaños.md",
+    "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
     "comandos_pip.md",
-    "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Movieworld/Movie links.md",
     "Linux/Linux.md",
