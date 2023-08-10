@@ -1,6 +1,6 @@
 rmdir /s /q "MEGAsync Downloads" 
 
-
+find /media/Datos/Pcks/ -type d -name 'ppv'
 *****
 
 Correo: maranchavi97@gmail.com
@@ -28,6 +28,8 @@ $ du -hs * | sort -rh | head -20
 5,3G	LolaRose @onlyfansisfree on tg
 5,2G	kiarafonsea
 5,2G	bronwinaurora
+
+puta vaca de mierda buscá trabajo puta
 
 #### /media/Datos/Pcks ppvs
 /media/Datos/Pcks/Amourettie @onlyfansisfree on tg/ppv
