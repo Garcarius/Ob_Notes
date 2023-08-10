@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 68.70109546165885,
+            "dimension": 42.13313161875946,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -105,12 +105,12 @@
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 31.29890453834116,
+            "dimension": 57.86686838124054,
             "children": [
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 73.95833333333333,
+                "dimension": 47.13541666666667,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
@@ -154,7 +154,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 26.041666666666664,
+                "dimension": 52.864583333333336,
                 "children": [
                   {
                     "id": "edd04d878b038d19",
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -347,13 +347,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e741bf293380c59f",
+  "active": "3ef97b4657642037",
   "lastOpenFiles": [
+    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
     "comandos_pip.md",
     "Telegram/Elie/post.md",
-    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Movieworld/Movie links.md",
     "Linux/Linux.md",
