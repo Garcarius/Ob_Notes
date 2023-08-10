@@ -6,8 +6,8 @@ rmdir /s /q "MEGAsync Downloads"
 Correo: maranchavi97@gmail.com
 Clave: Soytefa.97
 ****
-
-/media/Datos/Pcks$ du -hs * | sort -rh | head -20
+$ du -hs * | sort -rh | head -20
+#### /media/Datos/Pcks
 7,8G	Amourettie @onlyfansisfree on tg
 7,7G	Tiaunariley @onlyfansisfree on tg
 7,6G	wildwitch
@@ -29,8 +29,41 @@ Clave: Soytefa.97
 5,2G	kiarafonsea
 5,2G	bronwinaurora
 
+#### /media/Datos/Pcks ppvs
+/media/Datos/Pcks/Amourettie @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/mayts123 @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/Aloedvni @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/lilithcavali @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/myladelrey/ppv
+/media/Datos/Pcks/Saabsilvi @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/Authenticbella @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/Mercedes Blanche/ppv
+/media/Datos/Pcks/Smackmycupcake @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/LolaRose @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/bronwinaurora/ppv
+/media/Datos/Pcks/Haileyhitch @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/Lems7 @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/jackiebabigirl/ppv
+/media/Datos/Pcks/queenbri/ppv
+/media/Datos/Pcks/whynoodlesss @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/mikafans/ppv
+/media/Datos/Pcks/atlaseuuvip @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/msbreewc @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/arisepeachie @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/katysancheskii/ppv
+/media/Datos/Pcks/melaniepavolareal @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/reg_gomez @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/kukupaiii @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/KoraElle222 @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/Lucisatana @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/Kinkykior @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/Rusmeganfox @onlyfansisfree on tg/ppv
+/media/Datos/Pcks/erojolene/ppv
 
-/media/documentos/pedidos$ 
+
+
+
+#### /media/documentos/pedidos 
 4,4G	baranaismar
 4,3G	tuflacapvt
 4,3G	gemthejewels
@@ -51,4 +84,6 @@ Clave: Soytefa.97
 277M	vanessabazanonly
 215M	liz
 161M	mspichers3
+
+
 
