@@ -1,6 +1,6 @@
 
 #pino
-AmiraWest  @onlyfansisfree on tg
+LaiDawud  @onlyfansisfree on tg
 onlysfree.com  &  @onlyfansisfree on tg
 
 by onlysfree.com 
@@ -9,7 +9,7 @@ by onlysfree.com
 
 
 #Rey
-bronwin123 TG - @RareOFHub
+LaiDawud TG - @RareOFHub
 
 ****
 

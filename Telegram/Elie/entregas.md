@@ -15,6 +15,24 @@ urfavbellabby
 https://lbx.to/s/lJMeOzb
 https://mega.nz/folder/Am90zbYY#bX8b95NE-15eVQIQXFuAyQ
 
+aiyuens 
+https://mega.nz/folder/CYM32TpI#t_7sb_zH7pQ3lyOTAwq15w
+
+christine_b 
+https://mega.nz/folder/GQ9HTBKB#fu9GNwvkE_f88MZplmhiXA
+
+cocainktty
+https://mega.nz/folder/zRVwARIT#o3YyppUqJE_ga_gl_Ez3kA
+
+daniellexxvv 
+https://mega.nz/folder/iFFgnCbQ#LzCyzG31J-kdJfMCHB4cCw
+
+lillyvinnilyvip 
+https://mega.nz/folder/XZcHXYQI#9bDJle26CTwbzZgvCKRZzA
+
+norajoying 
+https://mega.nz/folder/7F1ngbDR#y7roBjzsAG0Ii2C8MxDMcw
+
 
 #####  08-08-23 bulk
 
