@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 39.79713603818616,
+            "dimension": 40.899795501022496,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -65,7 +65,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               },
               {
                 "id": "5695278b78636c83",
@@ -105,17 +106,34 @@
           {
             "id": "4b6cd50521e97cac",
             "type": "tabs",
-            "dimension": 60.20286396181385,
+            "dimension": 59.100204498977504,
             "children": [
               {
                 "id": "9a2a055df55bcf5f",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Telegram/Movieworld/Movies Entregas.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "85cc9a8bb2ef1f87",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Telegram/Elie/entregas.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -176,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -192,6 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +250,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Telegram/Elie/links.md"
+              }
             }
           },
           {
@@ -262,12 +285,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "5b7388155816e0a4",
   "lastOpenFiles": [
+    "Telegram/Elie/entregas.md",
+    "Telegram/Elie/links.md",
+    "Telegram/Elie/Elie.md",
+    "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Telegram.md",
+    "Telegram/Movieworld/Movie links.md",
     "Telegram/Personal/test.md",
     "Linux/comandos_pip.md",
     "Telegram/Personal/links/Links_Personales.md",
-    "Telegram/Telegram.md",
     "Telegram/Personal/links/ZPNAGh4jL7.md",
     "Untitled.md",
     "Telegram/Personal/links/abaabbyyyy.md",
@@ -285,11 +313,6 @@
     "Telegram/Personal/links/yeraldin_pulgarin17.md",
     "Telegram/Personal/links/yeniferchacon.md",
     "Telegram/Personal/links/xxvno.md",
-    "Telegram/Personal/links/xxbbyangel.md",
-    "Telegram/Personal/links/xratedprincessj.md",
-    "Telegram/Personal/links/xoxo_t.md",
-    "Telegram/Personal/links/xlovelila.md",
-    "Telegram/Personal/links/xkanix.md",
     "Telegram/Personal/links",
     "Telegram/Personal/Links",
     "Windows",
