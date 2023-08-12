@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 27.07535121328225,
+            "dimension": 39.79713603818616,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -35,7 +35,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "comandos_pip.md",
+                        "file": "Linux/comandos_pip.md",
                         "mode": "source",
                         "source": false
                       }
@@ -90,7 +90,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "comandos_pip.md",
+                        "file": "Linux/comandos_pip.md",
                         "mode": "source",
                         "source": false
                       }
@@ -103,73 +103,19 @@
             "direction": "horizontal"
           },
           {
-            "id": "0e76f9fe57e74de8",
-            "type": "split",
-            "dimension": 72.92464878671775,
+            "id": "4b6cd50521e97cac",
+            "type": "tabs",
+            "dimension": 60.20286396181385,
             "children": [
               {
-                "id": "b29555b9d2adf062",
-                "type": "tabs",
-                "dimension": 80.93422306959009,
-                "children": [
-                  {
-                    "id": "395459dd7fc60c3a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "database-plugin",
-                      "state": {
-                        "file": "Telegram/Personal/links/Links_Personales.md"
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "4b6cd50521e97cac",
-                "type": "tabs",
-                "dimension": 19.065776930409914,
-                "children": [
-                  {
-                    "id": "edd04d878b038d19",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Telegram/Elie/solo ppvs.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "3ef97b4657642037",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Telegram/Elie/post.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "9a2a055df55bcf5f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Linux/Comandos.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ],
-                "currentTab": 1
+                "id": "9a2a055df55bcf5f",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
               }
-            ],
-            "direction": "horizontal"
+            ]
           }
         ],
         "direction": "vertical"
@@ -230,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 200
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -246,7 +192,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Personal/links/Links_Personales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +208,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Personal/links/Links_Personales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,9 +229,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Telegram/Personal/links/Links_Personales.md"
-              }
+              "state": {}
             }
           },
           {
@@ -320,10 +262,20 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "395459dd7fc60c3a",
+  "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
-    "Telegram/Personal/links/abaabbyyyy.md",
+    "Telegram/Personal/test.md",
+    "Linux/comandos_pip.md",
     "Telegram/Personal/links/Links_Personales.md",
+    "Telegram/Telegram.md",
+    "Telegram/Personal/links/ZPNAGh4jL7.md",
+    "Untitled.md",
+    "Telegram/Personal/links/abaabbyyyy.md",
+    "Telegram/Elie/solo ppvs.md",
+    "Telegram/Personal/links/empresselfiie.md",
+    "Telegram/Elie/post.md",
+    "Linux/Comandos.md",
+    "Telegram/Personal/links/D9HKIqtHwS.md",
     "Telegram/Personal/links/aba.md",
     "Telegram/Personal/links/zoeybaby99.md",
     "Telegram/Personal/links/Ziennaxxx.md",
@@ -338,16 +290,6 @@
     "Telegram/Personal/links/xoxo_t.md",
     "Telegram/Personal/links/xlovelila.md",
     "Telegram/Personal/links/xkanix.md",
-    "Telegram/Personal/links/xangelxfacexx.md",
-    "Telegram/Personal/links/xailormoon.md",
-    "Telegram/Personal/links/wildwitchf.md",
-    "Telegram/Personal/links/white_fairyy.md",
-    "Telegram/Personal/links/whatever_girl.md",
-    "Telegram/Personal/links/violetsummers.md",
-    "Telegram/Personal/links/venuscvlt.md",
-    "Telegram/Personal/links/venusbb.md",
-    "Telegram/Personal/links/vanillamilknsfw.md",
-    "Telegram/Personal/links/vanessak_2002.md",
     "Telegram/Personal/links",
     "Telegram/Personal/Links",
     "Windows",
