@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 52.895148669796555,
+            "dimension": 27.07535121328225,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -105,56 +105,29 @@
           {
             "id": "0e76f9fe57e74de8",
             "type": "split",
-            "dimension": 47.104851330203445,
+            "dimension": 72.92464878671775,
             "children": [
               {
                 "id": "b29555b9d2adf062",
                 "type": "tabs",
-                "dimension": 67.578125,
+                "dimension": 80.93422306959009,
                 "children": [
                   {
                     "id": "395459dd7fc60c3a",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
+                      "type": "database-plugin",
                       "state": {
-                        "file": "Telegram/Elie/solo ppvs.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "d608cd48dd8552f0",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Telegram/Movieworld/Movies Entregas.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "1f9c30c607bfe31f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Telegram/Elie/entregas.md",
-                        "mode": "source",
-                        "source": false
+                        "file": "Telegram/Personal/links/Links_Personales.md"
                       }
                     }
                   }
-                ],
-                "currentTab": 2
+                ]
               },
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 32.421875,
+                "dimension": 19.065776930409914,
                 "children": [
                   {
                     "id": "edd04d878b038d19",
@@ -257,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -274,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Personal/links/Links_Personales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Personal/links/Links_Personales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/entregas.md"
+                "file": "Telegram/Personal/links/Links_Personales.md"
               }
             }
           },
@@ -344,39 +316,42 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "1f9c30c607bfe31f",
+  "active": "395459dd7fc60c3a",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
-    "Telegram/Elie/entregas.md",
-    "Telegram/Bussiness/Tamaños.md",
-    "comandos_pip.md",
-    "Telegram/Movieworld/Movies Entregas.md",
-    "Telegram/Elie/links.md",
-    "Telegram/Movieworld/Movie links.md",
-    "Linux/Linux.md",
-    "Linux/Comandos.md",
-    "Telegram/Movieworld/Movieworld.md",
-    "Telegram/Elie/solo ppvs.md",
-    "Telegram/Bussiness/Por descargar.md",
-    "Telegram/Bussiness/Erome.md",
-    "Linux/Alias.md",
-    "Telegram/Personal/comandos.md",
-    "Excalidraw/Drawing 2022-12-19 19.03.20.excalidraw.md",
-    "Windows/Windows.md",
+    "Telegram/Personal/links/abaabbyyyy.md",
+    "Telegram/Personal/links/Links_Personales.md",
+    "Telegram/Personal/links/aba.md",
+    "Telegram/Personal/links/zoeybaby99.md",
+    "Telegram/Personal/links/Ziennaxxx.md",
+    "Telegram/Personal/links/yureta.md",
+    "Telegram/Personal/links/yoyagrey.md",
+    "Telegram/Personal/links/yournekobaby.md",
+    "Telegram/Personal/links/yeraldin_pulgarin17.md",
+    "Telegram/Personal/links/yeniferchacon.md",
+    "Telegram/Personal/links/xxvno.md",
+    "Telegram/Personal/links/xxbbyangel.md",
+    "Telegram/Personal/links/xratedprincessj.md",
+    "Telegram/Personal/links/xoxo_t.md",
+    "Telegram/Personal/links/xlovelila.md",
+    "Telegram/Personal/links/xkanix.md",
+    "Telegram/Personal/links/xangelxfacexx.md",
+    "Telegram/Personal/links/xailormoon.md",
+    "Telegram/Personal/links/wildwitchf.md",
+    "Telegram/Personal/links/white_fairyy.md",
+    "Telegram/Personal/links/whatever_girl.md",
+    "Telegram/Personal/links/violetsummers.md",
+    "Telegram/Personal/links/venuscvlt.md",
+    "Telegram/Personal/links/venusbb.md",
+    "Telegram/Personal/links/vanillamilknsfw.md",
+    "Telegram/Personal/links/vanessak_2002.md",
+    "Telegram/Personal/links",
+    "Telegram/Personal/Links",
     "Windows",
-    "Telegram/Telegram.md",
     "Linux",
-    "Telegram/Elie/Elie.md",
-    "Languages/Languages.md",
-    "Languages/English.md",
-    "Languages/Swedish.md",
-    "Languages/German.md",
-    "Languages/French.md",
-    "Languages/Libanese/Libanese.md",
-    "Languages/Libanese/Lib.md",
     "Telegram/Movieworld",
     "Telegram/Movieworld",
     "Languages/Libanese",
@@ -385,8 +360,6 @@
     "Data_Science/Untitled.canvas",
     "Z_Att/Pasted image 20230103105135.png",
     "Telegram/Personal",
-    "Telegram/Bussiness",
-    "Pasted image 20221223191810.png",
-    "Telegram/Elie"
+    "Pasted image 20221223191810.png"
   ]
 }
