@@ -15,7 +15,7 @@
               {
                 "id": "fa82eefa7df6610d",
                 "type": "tabs",
-                "dimension": 66.14583333333333,
+                "dimension": 54.557291666666664,
                 "children": [
                   {
                     "id": "e741bf293380c59f",
@@ -71,7 +71,7 @@
               {
                 "id": "5695278b78636c83",
                 "type": "tabs",
-                "dimension": 33.854166666666664,
+                "dimension": 45.44270833333333,
                 "children": [
                   {
                     "id": "553befc012f5ab4e",
@@ -111,7 +111,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 73.95833333333334,
+                "dimension": 53.645833333333336,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -137,12 +137,13 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "c85703a921374c4a",
                 "type": "tabs",
-                "dimension": 26.041666666666668,
+                "dimension": 46.35416666666667,
                 "children": [
                   {
                     "id": "c19c6947ad6b577e",
@@ -220,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -236,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -310,16 +312,16 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "c8b8ad5a4be5cde3",
+  "active": "c19c6947ad6b577e",
   "lastOpenFiles": [
+    "Telegram/Elie/entregas.md",
+    "Linux/Linux.md",
     "Languages/Languages.md",
     "Linux/comandos_pip.md",
     "Linux/Comandos.md",
     "Linux/Alias.md",
     "Windows/Windows.md",
-    "Linux/Linux.md",
     "Telegram/Movieworld/Movies Entregas.md",
-    "Telegram/Elie/entregas.md",
     "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
     "Telegram/Elie/Elie.md",
