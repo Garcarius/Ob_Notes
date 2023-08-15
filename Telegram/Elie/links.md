@@ -18,15 +18,6 @@ https://mega.nz/folder/Pm4jxbwb#HkWTIPWfuBHxDRGQ-npoUA
 Sproutieeee
 https://mega.nz/folder/iFBABaxI#vV2jSBJX_k932QJfxC3vAw
 
-Ellalxox
-https://mega.nz/folder/vtIVBB4C#iszVwOPKkzDaU_C6GVwjOw
-
-Carlinicki
-https://mega.nz/folder/VEIxzBpR#2XFHB8tVlteGUtnjBCazsA
-
-Skylarmaexo
-https://mega.nz/folder/COomxCpA#77k3-YlxQBlB90w9hmY_nA
-
 
 #### 12-08-23
 
