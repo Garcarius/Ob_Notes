@@ -10,6 +10,28 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 ****
 ****
 
+#### 14-08-23
+
+zoe_consagra
+https://lbx.to/s/YeAfgr3
+https://mega.nz/folder/pzcXVIhL#SqLdE-ngWNSKQQyRutk4kQ
+
+Saraahh.Jesss
+https://lbx.to/s/rX545x1
+https://mega.nz/folder/9n1lza5C#DYwcvgv82XJWh27-q9Wbxw
+
+EllyClutch
+https://lbx.to/s/dMpBUq5
+https://mega.nz/folder/4vdh3ToR#qXClwP4Ls1i7H9qNYrBomg
+
+asyabunny11
+https://lbx.to/s/GfV8yt6
+https://mega.nz/folder/Qn02SaLT#tJVOeRXlltCaxQG5O7Vk1A
+
+ambsofficialxo
+https://lbx.to/s/bAWNYyS
+https://mega.nz/folder/VrFViCgI#_L0J04tcFMVKatOc9xDgMw
+
 #### 12-08-23
 wakeandbake14 
 https://lbx.to/s/0iYnnRj

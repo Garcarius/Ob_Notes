@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 47.0499243570348,
+            "dimension": 34.84848484848485,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -118,12 +118,12 @@
           {
             "id": "f82f28a893a0f5d5",
             "type": "split",
-            "dimension": 52.9500756429652,
+            "dimension": 65.15151515151516,
             "children": [
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 53.645833333333336,
+                "dimension": 66.66666666666666,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -154,7 +154,7 @@
               {
                 "id": "c85703a921374c4a",
                 "type": "tabs",
-                "dimension": 46.35416666666667,
+                "dimension": 33.33333333333333,
                 "children": [
                   {
                     "id": "c19c6947ad6b577e",
@@ -325,14 +325,14 @@
   "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
     "Telegram/Elie/entregas.md",
-    "Linux/Comandos.md",
+    "Telegram/Movieworld/Movies Entregas.md",
     "Linux/Linux.md",
-    "Linux/comandos_pip.md",
     "Telegram/Elie/post.md",
+    "Linux/Comandos.md",
+    "Linux/comandos_pip.md",
     "Languages/Languages.md",
     "Linux/Alias.md",
     "Windows/Windows.md",
-    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/links.md",
     "Telegram/Elie/Elie.md",
     "Telegram/Telegram.md",
