@@ -2,6 +2,32 @@ ihearttrenityy
 susana_barbosa
 xosof
 
+#### 15-08-23
+emilyknight
+https://mega.nz/folder/BvNVnRgS#Iy8myfXCkm4UktWY1_-C4w
+
+krissykummins 
+https://mega.nz/folder/ruIiwQ7K#-hwQGJ8ssiGLaBRo1ppoTA
+
+kaitviolet
+https://mega.nz/folder/Iv1GDZKD#5njOApUxXWkazmz-POQNZA
+
+thesabrinabanks
+https://mega.nz/folder/Pm4jxbwb#HkWTIPWfuBHxDRGQ-npoUA
+
+Sproutieeee
+https://mega.nz/folder/iFBABaxI#vV2jSBJX_k932QJfxC3vAw
+
+Ellalxox
+https://mega.nz/folder/vtIVBB4C#iszVwOPKkzDaU_C6GVwjOw
+
+Carlinicki
+https://mega.nz/folder/VEIxzBpR#2XFHB8tVlteGUtnjBCazsA
+
+Skylarmaexo
+https://mega.nz/folder/COomxCpA#77k3-YlxQBlB90w9hmY_nA
+
+
 #### 12-08-23
 
 Savannah Sky
