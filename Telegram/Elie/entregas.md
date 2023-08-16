@@ -13,18 +13,23 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 
 emilyknight
 https://lbx.to/s/98FmNpk
+https://mega.nz/folder/Or5DBbKI#re60iWdJHf03R5cPK_SVdw
 
 kaitviolet
 https://lbx.to/s/ukAsqYd
+https://mega.nz/folder/WmAEhJYa#eHsUIEmpC-rde9gPljfUyw
 
 krissykummins
 https://lbx.to/s/etP080X
+https://mega.nz/folder/f3ISFYhA#7Db4a1rypx0jxOgf6MCJ1A
 
 sproutieeee
 https://lbx.to/s/aHie957
+https://mega.nz/folder/K2ZlgQhA#2hFUczG0gFfrQnRJ2ES_Xg
 
 thesabrinabanks
 https://lbx.to/s/wYLfhbe
+https://mega.nz/folder/qrIynZoT#rfnuSGpu0XKbYYIZl103qA
 #### 14-08-23
 
 zoe_consagra
