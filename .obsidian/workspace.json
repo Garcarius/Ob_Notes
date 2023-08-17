@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -324,11 +324,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "c19c6947ad6b577e",
+  "active": "85cc9a8bb2ef1f87",
   "lastOpenFiles": [
+    "Telegram/Elie/post.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
-    "Telegram/Elie/post.md",
     "Linux/Comandos.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Linux/Linux.md",
