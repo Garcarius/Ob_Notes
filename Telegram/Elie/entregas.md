@@ -10,6 +10,30 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 ****
 ****
 
+#### 18-08-223
+Moonchild_777
+https://lbx.to/s/r4uAx33
+https://mega.nz/folder/4z8GTBDK#rif5ZayXUJiji-DKnxHCVw
+
+Nicxoles
+https://lbx.to/s/Cl8Yvhp
+https://mega.nz/folder/sqtgQBrQ#dypwpzJg0kxnkyZepSETLQ
+
+Thiccthugga
+https://mega.nz/folder/17liDRBD#3gZ18bm-7pD65DGgy9yraA
+
+TroyaChan
+https://lbx.to/s/SQP9NAf
+https://mega.nz/folder/w3VhlKBb#yKOav3-1M0RMH9YqaOcweQ
+
+Vanessabuttt
+https://lbx.to/s/5CIuT9y
+https://mega.nz/folder/5msARbIJ#Wvw4TRiu4YotOXktkSd-Lw
+
+VeronicaPerasso
+https://lbx.to/s/oBxF2fx
+https://mega.nz/folder/Aj1B0YKD#KdCi55snWcOFOiFK92OSiA
+
 #### 16-08-23
 hannahowo
 https://lbx.to/s/UiQoVvl
