@@ -10,12 +10,12 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 31.164901664145233,
+            "dimension": 46.29349470499244,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
                 "type": "tabs",
-                "dimension": 73.95833333333333,
+                "dimension": 46.484375,
                 "children": [
                   {
                     "id": "e741bf293380c59f",
@@ -70,7 +70,7 @@
               {
                 "id": "5695278b78636c83",
                 "type": "tabs",
-                "dimension": 26.041666666666664,
+                "dimension": 53.515625,
                 "children": [
                   {
                     "id": "553befc012f5ab4e",
@@ -78,7 +78,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Bussiness/Erome.md",
+                        "file": "Telegram/Descargas.md",
                         "mode": "source",
                         "source": false
                       }
@@ -108,8 +108,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 2
+                ]
               }
             ],
             "direction": "horizontal"
@@ -117,12 +116,12 @@
           {
             "id": "f82f28a893a0f5d5",
             "type": "split",
-            "dimension": 68.83509833585477,
+            "dimension": 53.70650529500757,
             "children": [
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 69.53125,
+                "dimension": 55.46875,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -154,7 +153,7 @@
               {
                 "id": "c85703a921374c4a",
                 "type": "tabs",
-                "dimension": 30.46875,
+                "dimension": 44.53125,
                 "children": [
                   {
                     "id": "c19c6947ad6b577e",
@@ -232,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -249,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/entregas.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -323,12 +321,18 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "85cc9a8bb2ef1f87",
+  "active": "c19c6947ad6b577e",
   "lastOpenFiles": [
-    "Telegram/Bussiness/Tamaños.md",
-    "Telegram/Elie/entregas.md",
-    "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Descargas.md",
+    "Telegram/Personal/test.md",
+    "Telegram/Personal/revisar.md",
+    "Telegram/Personal/Cosas.md",
+    "Telegram/Personal/Buscar.md",
+    "Telegram/Bussiness/Erome.md",
     "Telegram/Elie/post.md",
+    "Telegram/Elie/entregas.md",
+    "Telegram/Bussiness/Tamaños.md",
+    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/links.md",
     "Linux/Comandos.md",
     "Linux/Linux.md",
@@ -339,18 +343,12 @@
     "Telegram/Elie/Elie.md",
     "Telegram/Telegram.md",
     "Telegram/Movieworld/Movie links.md",
-    "Telegram/Personal/test.md",
     "Telegram/Personal/links/Links_Personales.md",
     "Telegram/Personal/links/ZPNAGh4jL7.md",
     "Untitled.md",
     "Telegram/Personal/links/abaabbyyyy.md",
     "Telegram/Elie/solo ppvs.md",
     "Telegram/Personal/links/empresselfiie.md",
-    "Telegram/Personal/links/D9HKIqtHwS.md",
-    "Telegram/Personal/links/aba.md",
-    "Telegram/Personal/links/zoeybaby99.md",
-    "Telegram/Personal/links/Ziennaxxx.md",
-    "Telegram/Personal/links/yureta.md",
     "Telegram/Personal/links",
     "Telegram/Personal/Links",
     "Windows",
