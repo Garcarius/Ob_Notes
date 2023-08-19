@@ -65,7 +65,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               },
               {
                 "id": "5695278b78636c83",
@@ -249,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Comandos.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Comandos.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Comandos.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -323,12 +324,12 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "4b568f6a8da1274c",
+  "active": "5b7388155816e0a4",
   "lastOpenFiles": [
+    "Linux/Comandos.md",
     "Linux/comandos_pip.md",
     "Telegram/Descargas.md",
     "Telegram/Elie/post.md",
-    "Linux/Comandos.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Personal/test.md",
     "Telegram/Personal/revisar.md",
