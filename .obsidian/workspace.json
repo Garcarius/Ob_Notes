@@ -116,7 +116,7 @@
           {
             "id": "f82f28a893a0f5d5",
             "type": "split",
-            "dimension": 53.70650529500757,
+            "dimension": 53.70650529500756,
             "children": [
               {
                 "id": "4b6cd50521e97cac",
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Descargas.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Descargas.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Descargas.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -322,10 +322,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "553befc012f5ab4e",
+  "active": "85cc9a8bb2ef1f87",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
     "Telegram/Descargas.md",
+    "Telegram/Elie/post.md",
     "Telegram/Personal/test.md",
     "Telegram/Personal/revisar.md",
     "Telegram/Personal/Cosas.md",

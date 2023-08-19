@@ -10,6 +10,35 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 ****
 ****
 
+#### 18-08-23
+ItsAliyahMarie
+https://lbx.to/s/JrUMDga
+https://mega.nz/folder/Amt0wS5L#_ZqGm0vg6u5SpYAR_Jts2w
+
+Kiaraakitty
+https://lbx.to/s/arv84QY
+https://mega.nz/folder/4vNwRAqJ#FjfXmHl_G6tI8vo2matl0Q
+
+Liviblondie
+https://lbx.to/s/fASXXvx
+https://mega.nz/folder/5u8GmRiJ#Ck1rsJ_5CdOGcd2cSi9adA
+
+PlayBunny
+https://lbx.to/s/lMQKFje
+https://mega.nz/folder/xjlx1SZS#Lo6zqAST_ZDt5VnbOm1U0g
+
+sophiereadeofficial
+https://lbx.to/s/CLXt7XR
+https://mega.nz/folder/9qFDGYwS#0YzIVKycApiyRPYi-TVoDw
+
+stefbabyg
+https://lbx.to/s/Nmr6Vt6
+https://mega.nz/folder/R2k0EDpD#8A0JdIXzoVHxFdkFK7CzQA
+
+Urbabydollxo
+https://lbx.to/s/PVfEcQr
+https://mega.nz/folder/IzdjzBxL#7JIv764Ted6kFJ_NvxWbQQ
+
 #### 18-08-223
 Moonchild_777
 https://lbx.to/s/r4uAx33
