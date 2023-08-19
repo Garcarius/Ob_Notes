@@ -108,8 +108,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 2
+                ]
               }
             ],
             "direction": "horizontal"
@@ -249,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Comandos.md",
+                "file": "Telegram/Descargas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Comandos.md",
+                "file": "Telegram/Descargas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Comandos.md"
+                "file": "Telegram/Descargas.md"
               }
             }
           },
@@ -323,12 +322,13 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "4b568f6a8da1274c",
+  "active": "553befc012f5ab4e",
   "lastOpenFiles": [
+    "Telegram/Elie/post.md",
+    "Linux/Comandos.md",
     "Linux/comandos_pip.md",
     "Telegram/Descargas.md",
     "Telegram/Elie/entregas.md",
-    "Telegram/Elie/post.md",
     "Telegram/Personal/test.md",
     "Telegram/Personal/revisar.md",
     "Telegram/Personal/Cosas.md",
@@ -337,7 +337,6 @@
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/links.md",
-    "Linux/Comandos.md",
     "Linux/Linux.md",
     "Languages/Languages.md",
     "Linux/Alias.md",
