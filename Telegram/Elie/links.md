@@ -7,6 +7,17 @@ https://mega.nz/folder/UqMSwRhY#5Bm74i-s81Ik_L6CRNpF9w
 
 luvcoregf⚡
 https://mega.nz/folder/pbMzgbLR#kOIiqRxZrohsH0ZgPer44Q
+
+Courtney Tailor
+https://mega.nz/folder/MVcyAYoJ#BVglF1EEEVT3l752R9wr5g
+
+Kristen Hanche
+https://mega.nz/folder/0LNDQLhL#r1dr5n83TmUK4SD5JvCbww
+
+KailahK
+https://mega.nz/folder/Fu1giI5Y#smhytHFNwvZVO5iwjyO8TQ
+
+
 #### 19-08-23
 elenas.caprice
 https://mega.nz/folder/qi5gzTiB#EzDHSoImFUX9PD1jGmZBwQ
