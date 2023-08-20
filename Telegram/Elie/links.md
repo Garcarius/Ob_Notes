@@ -1,7 +1,12 @@
 ihearttrenityy
 susana_barbosa
 xosof
+#### 20-08-23
+callmecupcakes
+https://mega.nz/folder/UqMSwRhY#5Bm74i-s81Ik_L6CRNpF9w
 
+luvcoregf⚡
+https://mega.nz/folder/pbMzgbLR#kOIiqRxZrohsH0ZgPer44Q
 #### 19-08-23
 elenas.caprice
 https://mega.nz/folder/qi5gzTiB#EzDHSoImFUX9PD1jGmZBwQ
