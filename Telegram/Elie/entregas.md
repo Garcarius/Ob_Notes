@@ -9,6 +9,42 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 
 ****
 ****
+
+
+#### 21-08-23
+
+luvcoregf
+https://lbx.to/s/UuLiKV4
+https://mega.nz/folder/7AElxLLL#HDksng1k9OYxXk9470_64w
+
+Kristenhancher
+https://lbx.to/s/l2Yqk7E
+https://mega.nz/folder/CMcFHLLI#sH_z1TKLtc0u4KZ1hw_D5w
+
+KailahK
+https://lbx.to/s/xBnBDoM
+https://mega.nz/folder/qZdQFJDa#FI-Rcv77yP7yqhS1UDvbjA
+
+Julia burch
+https://lbx.to/s/KU85eDJ
+https://mega.nz/folder/udkgkBSC#jo27m1X02ebx9NuSbP4ZFw
+
+Courtneytailorx
+https://lbx.to/s/jxRGofF
+https://mega.nz/folder/udkgkBSC#jo27m1X02ebx9NuSbP4ZFw
+
+Caroline Zalog
+https://lbx.to/s/xPplKYn
+https://mega.nz/folder/KB0gCbgI#vQDpYRHy7EbKn3cGMIiGlg
+
+Carolina Samani
+https://lbx.to/s/PBPUKT9
+https://mega.nz/folder/bdtHTAyR#ETuiwJnpQ1wPbh4JKfgZvg
+
+callmecupcakes
+https://lbx.to/s/CKcEpiq
+https://mega.nz/folder/KBUXUT6a#C8JrAGYeOWJ56iNnYgycKw
+
 ##### 19-08-23
 Sashiuwu
 https://lbx.to/s/pMn0RfZ
