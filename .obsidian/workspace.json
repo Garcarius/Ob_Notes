@@ -149,8 +149,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "c85703a921374c4a",
@@ -250,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/entregas.md"
+                "file": "Telegram/Movieworld/Movies Entregas.md"
               }
             }
           },
@@ -324,15 +323,15 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "85cc9a8bb2ef1f87",
+  "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
+    "Telegram/Elie/links.md",
+    "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Elie/entregas.md",
     "Linux/Comandos.md",
     "Linux/comandos_pip.md",
     "Telegram/Descargas.md",
-    "Telegram/Elie/entregas.md",
     "Telegram/Elie/post.md",
-    "Telegram/Elie/links.md",
-    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Personal/test.md",
     "Telegram/Personal/revisar.md",
     "Telegram/Personal/Cosas.md",
