@@ -11,3 +11,11 @@ ffmpeg -i l"jackiebabigirl TG - @RareOFHub 10.wmv" -c:a copy lesbi_cortado.mp4
 ```
 ffmpeg -i "jackiebabigirl TG - @RareOFHub 10.wmv" -c:v libx264 -crf 23 -c:a aac -q:a 100 "jackiebabigirl TG - @RareOFHub 10.mp4"
 ```
+
+```
+find $directory -type f -name \*.in
+```
+
+```
+find . -type f -name '*.mp4'
+```

@@ -15,7 +15,7 @@
               {
                 "id": "fa82eefa7df6610d",
                 "type": "tabs",
-                "dimension": 73.17708333333333,
+                "dimension": 40.36458333333333,
                 "children": [
                   {
                     "id": "e741bf293380c59f",
@@ -71,7 +71,7 @@
               {
                 "id": "5695278b78636c83",
                 "type": "tabs",
-                "dimension": 26.822916666666664,
+                "dimension": 59.635416666666664,
                 "children": [
                   {
                     "id": "553befc012f5ab4e",
@@ -109,7 +109,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               }
             ],
             "direction": "horizontal"
@@ -324,12 +325,12 @@
   },
   "active": "c19c6947ad6b577e",
   "lastOpenFiles": [
-    "Telegram/Movieworld/Movies Entregas.md",
+    "Linux/Comandos.md",
     "Telegram/Elie/post.md",
+    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
     "Telegram/Descargas.md",
-    "Linux/Comandos.md",
     "Linux/comandos_pip.md",
     "Telegram/Personal/test.md",
     "Telegram/Personal/revisar.md",
