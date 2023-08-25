@@ -1,6 +1,6 @@
 ffmpeg -i lesbis.mp4 -ss 00:00:00 -t 00:00:15 -c:v copy -c:a copy lesbi_cortado.mp4
 
-find . -size +80M > tam.txt
+find . -size +80M > full_packs.txt
 
 du -h --max-depth=1 | sort -hr > text.txt
 
