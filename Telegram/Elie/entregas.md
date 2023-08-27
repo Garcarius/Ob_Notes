@@ -13,19 +13,27 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 jakaramitchell
 https://lbx.to/s/eBZoHfD
 
+https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ/folder/vSxnwajZ
+
 Izzy Green
 https://lbx.to/s/UROYpQS
+
+https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ/folder/zG4BUCyL
 
 ivankapeach
 https://lbx.to/s/0ZdBDw2
 
+https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ/folder/mO5D0K5J
+
 itspatikayy
 https://lbx.to/s/0XL9DrJ
+
+https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ/folder/nX4nnCTS
 
 itslaurendotcom
 https://lbx.to/s/eD9y5Ns
 
-
+https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ/folder/7WgxxKoQ
 #### 24-08-23
 
 stellbabyx
