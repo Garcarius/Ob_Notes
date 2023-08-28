@@ -65,7 +65,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               },
               {
                 "id": "5695278b78636c83",
@@ -147,7 +148,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "c85703a921374c4a",
@@ -247,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -321,14 +323,15 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "5b7388155816e0a4",
   "lastOpenFiles": [
+    "Telegram/Bussiness/Tamaños.md",
+    "Linux/Linux.md",
     "Telegram/Elie/entregas.md",
-    "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Elie/post.md",
     "Telegram/Descargas.md",
     "Linux/Comandos.md",
-    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/links.md",
     "Linux/comandos_pip.md",
     "Telegram/Personal/test.md",
@@ -336,7 +339,6 @@
     "Telegram/Personal/Cosas.md",
     "Telegram/Personal/Buscar.md",
     "Telegram/Bussiness/Erome.md",
-    "Linux/Linux.md",
     "Languages/Languages.md",
     "Linux/Alias.md",
     "Windows/Windows.md",
