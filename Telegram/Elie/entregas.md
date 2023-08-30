@@ -30,6 +30,27 @@ https://mega.nz/folder/ruxgUIQS#BOB-eN0f-k7L6OdXd589qA
 Alina_Becker
 https://lbx.to/s/sBISqwM
 https://mega.nz/folder/T6RHxKIY#VdfDSG0TIg1nON6m1SEKWg
+
+
+shiftymine
+https://lbx.to/s/8h0oljQ
+https://mega.nz/folder/H3wlxRpY#DmuRq2iQFUdoH8Bcvv89mQ
+
+ortega00
+https://lbx.to/s/elqMGaX
+https://mega.nz/folder/f2gR3CSR#kLpdnWBXBwji37JSk-2DBQ
+
+Heaven2Hot
+https://lbx.to/s/XpUfhwy
+https://mega.nz/folder/LjRGgZiK#d9ouHyRX3TFPY5-LEnLGBw
+
+AnastasiiaKvitko
+https://lbx.to/s/k9zoDwm
+https://mega.nz/folder/qnIU0IgD#9vw3UCoUkSkcIzs1a5LeWg
+
+Abruak
+https://lbx.to/s/MEI1slZ
+https://mega.nz/folder/S6IxCRTD#SMrEJM8gSdjZNX840iiyrQ
 #### 28-08-27
 Prvega28
 https://lbx.to/s/hoZEyFp
