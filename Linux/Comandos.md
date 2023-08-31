@@ -49,5 +49,6 @@ alias vcyber='cd /media/documentos/apps/cyber/ && source venv/bin/activate && cy
 alias vcyberh='cd /media/documentos/apps/cyber/ && source venv/bin/activate && cyberdrop-dl --ignore-history -o '
 alias vcyberp='cd /media/documentos/apps/cyber/ && source venv/bin/activate && cyberdrop-dl -o /media/Datos/Downloaders/'
 alias yt='cd /media/Datos/Downloaders/ && youtube-dl'
+alias tamfiles='find . -size +75M > full_packs.txt'
 
 ```
