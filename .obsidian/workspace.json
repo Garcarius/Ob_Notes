@@ -109,7 +109,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               }
             ],
             "direction": "horizontal"
@@ -178,8 +179,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "horizontal"
@@ -336,13 +336,13 @@
   },
   "active": "56803e15af3dcab0",
   "lastOpenFiles": [
+    "Telegram/Elie/post.md",
+    "Linux/Comandos.md",
+    "Linux/comandos_pip.md",
+    "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
     "Telegram/Descargas.md",
-    "Linux/Comandos.md",
-    "Telegram/Elie/post.md",
-    "Linux/comandos_pip.md",
     "Telegram/Bussiness/Tamaños.md",
-    "Telegram/Elie/entregas.md",
     "Linux/Linux.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Personal/test.md",
