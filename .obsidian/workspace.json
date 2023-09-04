@@ -118,12 +118,12 @@
           {
             "id": "f82f28a893a0f5d5",
             "type": "split",
-            "dimension": 53.857791225416044,
+            "dimension": 53.85779122541604,
             "children": [
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 71.09375,
+                "dimension": 45.703125,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -155,7 +155,7 @@
               {
                 "id": "c85703a921374c4a",
                 "type": "tabs",
-                "dimension": 28.90625,
+                "dimension": 54.296875,
                 "children": [
                   {
                     "id": "c19c6947ad6b577e",
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/entregas.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -334,10 +334,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "56803e15af3dcab0",
+  "active": "c19c6947ad6b577e",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
     "Telegram/Elie/entregas.md",
+    "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/links.md",
     "Linux/Comandos.md",
