@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -333,16 +333,16 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "e741bf293380c59f",
+  "active": "c19c6947ad6b577e",
   "lastOpenFiles": [
+    "Linux/Comandos.md",
+    "Telegram/Elie/post.md",
+    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Movieworld/Movies Entregas.md",
-    "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
-    "Linux/Comandos.md",
     "Linux/comandos_pip.md",
     "Telegram/Descargas.md",
-    "Telegram/Bussiness/Tamaños.md",
     "Linux/Linux.md",
     "Telegram/Personal/test.md",
     "Telegram/Personal/revisar.md",
