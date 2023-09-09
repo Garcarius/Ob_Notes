@@ -121,7 +121,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 57.421875,
+                "dimension": 44.66145833333333,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -147,12 +147,13 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "c85703a921374c4a",
                 "type": "tabs",
-                "dimension": 42.578125,
+                "dimension": 55.338541666666664,
                 "children": [
                   {
                     "id": "c19c6947ad6b577e",
@@ -257,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -331,11 +332,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "9a2a055df55bcf5f",
+  "active": "c19c6947ad6b577e",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
-    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/entregas.md",
+    "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Elie/post.md",
     "Telegram/Descargas.md",
     "Linux/Comandos.md",
     "Telegram/Bussiness/Tamaños.md",
