@@ -108,7 +108,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "horizontal"
@@ -121,7 +122,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 44.66145833333333,
+                "dimension": 72.65625,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -147,13 +148,12 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "c85703a921374c4a",
                 "type": "tabs",
-                "dimension": 55.338541666666664,
+                "dimension": 27.34375,
                 "children": [
                   {
                     "id": "c19c6947ad6b577e",
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Descargas.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Descargas.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Descargas.md"
+                "file": "Telegram/Movieworld/Movies Entregas.md"
               }
             }
           },
@@ -332,16 +332,16 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "553befc012f5ab4e",
+  "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
+    "Linux/comandos_pip.md",
+    "Linux/Comandos.md",
     "Telegram/Descargas.md",
+    "Telegram/Elie/post.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Movieworld/Movies Entregas.md",
-    "Linux/Comandos.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/links.md",
-    "Linux/comandos_pip.md",
     "Linux/Linux.md",
     "Telegram/Personal/test.md",
     "Telegram/Personal/revisar.md",
