@@ -10,6 +10,26 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 ****
 ****
 
+#### 10-09-23
+Adriana.Olivarez
+https://mega.nz/folder/MjV0TYiK#MJpu8vGlomINU9mJ-ftk2A
+
+GloriaSol
+https://lbx.to/s/ymlqYAE
+https://mega.nz/folder/xvsUhDKT#3aPgufdpQcsxAogPScakWg
+
+Koumorimo
+https://lbx.to/s/5jSIPjX
+https://mega.nz/folder/Rq0jFKZZ#UkONtMuJxqf1fRhZ6aHaIg
+
+Lucycanbebought
+https://lbx.to/s/oB2IdDE
+https://mega.nz/folder/MjsgxaQC#5sevvNuAuGvOIM_XLxvAeA
+
+Skylersimpsonn
+https://lbx.to/s/k86jncf
+https://mega.nz/folder/Vud1HLhI#NYggOctoXaDJtahav20eKg
+
 #### 09-09-23
 Anncruz03
 https://lbx.to/s/PQkKmhv
