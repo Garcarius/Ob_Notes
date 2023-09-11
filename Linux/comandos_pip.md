@@ -1,6 +1,6 @@
 forzar reinstalacion de programa
 ```shell
-pipx install --upgrade --force-reinstall --no-cache-dir cyberdrop-dl
+pip install --upgrade --force-reinstall --no-cache-dir cyberdrop-dl
 
 pipx --force reinstall-all cyberdrop-dl
 
