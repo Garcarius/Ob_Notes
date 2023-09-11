@@ -8,9 +8,10 @@ https://linuxconfig.org/how-to-use-find-command-to-search-for-files-based-on-fil
 
 ffmpeg -i l"jackiebabigirl TG - @RareOFHub 10.wmv" -c:a copy lesbi_cortado.mp4
 
-```
-ffmpeg -i "jackiebabigirl TG - @RareOFHub 10.wmv" -c:v libx264 -crf 23 -c:a aac -q:a 100 "jackiebabigirl TG - @RareOFHub 10.mp4"
-```
+#ffmpeg
+[[ffmpeg]]
+
+
 
 ```
 find $directory -type f -name \*.in
@@ -20,6 +21,7 @@ find $directory -type f -name \*.in
 find . -type f -name '*.mp4'
 ```
 
+#Alias
 ```bash
 alias ..='cd ..'
 alias ...='cd ../..'
@@ -50,5 +52,7 @@ alias vcyberh='cd /media/documentos/apps/cyber/ && source venv/bin/activate && c
 alias vcyberp='cd /media/documentos/apps/cyber/ && source venv/bin/activate && cyberdrop-dl -o /media/Datos/Downloaders/'
 alias yt='cd /media/Datos/Downloaders/ && youtube-dl'
 alias tamfiles='find . -size +75M > full_packs.txt'
+alias fupppip='sudo pip install --upgrade --force-reinstall --no-cache-dir'
+alias cdh='cd ~'
 
 ```

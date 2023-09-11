@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 46.14220877458396,
+            "dimension": 60.13615733736762,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -102,14 +102,14 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Linux/Comandos.md",
+                        "file": "ffmpeg.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "horizontal"
@@ -117,7 +117,7 @@
           {
             "id": "f82f28a893a0f5d5",
             "type": "split",
-            "dimension": 53.85779122541604,
+            "dimension": 39.86384266263238,
             "children": [
               {
                 "id": "4b6cd50521e97cac",
@@ -241,8 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -258,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/comandos_pip.md",
+                "file": "ffmpeg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/comandos_pip.md",
+                "file": "ffmpeg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/comandos_pip.md"
+                "file": "ffmpeg.md"
               }
             }
           },
@@ -332,13 +331,14 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "aedca4749f29a85c",
+  "active": "4b568f6a8da1274c",
   "lastOpenFiles": [
+    "Linux/Comandos.md",
+    "ffmpeg.md",
+    "Linux/comandos_pip.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/post.md",
-    "Linux/comandos_pip.md",
-    "Linux/Comandos.md",
     "Telegram/Descargas.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/links.md",
@@ -359,7 +359,6 @@
     "Untitled.md",
     "Telegram/Personal/links/abaabbyyyy.md",
     "Telegram/Elie/solo ppvs.md",
-    "Telegram/Personal/links/empresselfiie.md",
     "Telegram/Personal/links",
     "Telegram/Personal/Links",
     "Windows",
