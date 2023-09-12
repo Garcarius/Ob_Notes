@@ -11,7 +11,8 @@ ffmpeg -i l"jackiebabigirl TG - @RareOFHub 10.wmv" -c:a copy lesbi_cortado.mp4
 #ffmpeg
 [[ffmpeg]]
 
-
+```bash
+ffmpeg -i video.webm video.mp4
 
 ```
 find $directory -type f -name \*.in
