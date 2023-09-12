@@ -85,16 +85,6 @@
                     }
                   },
                   {
-                    "id": "5816d369b77d9cdf",
-                    "type": "leaf",
-                    "state": {
-                      "type": "release-notes",
-                      "state": {
-                        "currentVersion": "1.4.11"
-                      }
-                    }
-                  },
-                  {
                     "id": "aedca4749f29a85c",
                     "type": "leaf",
                     "state": {
@@ -118,8 +108,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 3
+                ]
               }
             ],
             "direction": "horizontal"
@@ -175,16 +164,6 @@
                         "file": "Telegram/Elie/post.md",
                         "mode": "source",
                         "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "68c24110b0cd638d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "release-notes",
-                      "state": {
-                        "currentVersion": "1.4.5"
                       }
                     }
                   }
@@ -354,13 +333,13 @@
   },
   "active": "c19c6947ad6b577e",
   "lastOpenFiles": [
+    "Telegram/Descargas.md",
+    "Telegram/Elie/post.md",
     "Linux/Comandos.md",
     "Linux/comandos_pip.md",
-    "Telegram/Elie/post.md",
     "Telegram/Elie/entregas.md",
     "Linux/ffmpeg.md",
     "Telegram/Movieworld/Movies Entregas.md",
-    "Telegram/Descargas.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/links.md",
     "Linux/Linux.md",
