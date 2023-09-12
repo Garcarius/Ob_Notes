@@ -85,6 +85,16 @@
                     }
                   },
                   {
+                    "id": "5816d369b77d9cdf",
+                    "type": "leaf",
+                    "state": {
+                      "type": "release-notes",
+                      "state": {
+                        "currentVersion": "1.4.11"
+                      }
+                    }
+                  },
+                  {
                     "id": "aedca4749f29a85c",
                     "type": "leaf",
                     "state": {
@@ -108,7 +118,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "horizontal"
@@ -147,7 +158,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "c85703a921374c4a",
@@ -256,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Descargas.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Descargas.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Descargas.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -306,6 +318,16 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "b391def4fd08017b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -330,14 +352,14 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "553befc012f5ab4e",
+  "active": "c19c6947ad6b577e",
   "lastOpenFiles": [
+    "Telegram/Elie/entregas.md",
     "Linux/Comandos.md",
     "Telegram/Elie/post.md",
     "Linux/ffmpeg.md",
     "Linux/comandos_pip.md",
     "Telegram/Movieworld/Movies Entregas.md",
-    "Telegram/Elie/entregas.md",
     "Telegram/Descargas.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/links.md",
