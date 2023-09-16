@@ -54,5 +54,6 @@ alias delempty='find . -type d -empty -delete'
 alias tamfiles='find . -size +75M > full_packs.txt'
 alias fupppip='sudo pip install --upgrade --force-reinstall --no-cache-dir'
 alias cdh='cd ~'
-
+alias unzipall='bash /media/documentos/Programas/bash/unzip_files.sh'
+alias mvids='bash /media/documentos/Programas/bash/move_videos.sh'
 ```
