@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,12 +228,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -333,7 +333,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "56803e15af3dcab0",
+  "active": "acc7f9d477eb6a31",
   "lastOpenFiles": [
     "Telegram/Elie/post.md",
     "Linux/Comandos.md",
