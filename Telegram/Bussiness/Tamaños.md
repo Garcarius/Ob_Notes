@@ -6,7 +6,7 @@ find /media/garcarius/SAMSUNG/pedidos/ -type d -name 'ppv'
 *****
 
 Correo: maranchavi97@gmail.com
-Clave: Soytefa.97
+Clave: Soytefa.97**
 ****
 $ du -hs * | sort -rh | head -20
 #### /media/Datos/Pcks
