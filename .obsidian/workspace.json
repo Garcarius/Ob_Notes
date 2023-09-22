@@ -247,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Comandos.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Comandos.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Comandos.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -331,14 +331,14 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "4b568f6a8da1274c",
+  "active": "c19c6947ad6b577e",
   "lastOpenFiles": [
+    "Telegram/Movieworld/Movies Entregas.md",
+    "Linux/Comandos.md",
     "Linux/comandos_pip.md",
     "Telegram/Elie/post.md",
-    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/entregas.md",
     "Telegram/Bussiness/Tamaños.md",
-    "Linux/Comandos.md",
     "Telegram/Descargas.md",
     "Linux/ffmpeg.md",
     "Telegram/Elie/links.md",
