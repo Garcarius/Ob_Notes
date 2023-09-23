@@ -148,8 +148,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "c85703a921374c4a",
@@ -248,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/post.md",
+                "file": "Telegram/Movieworld/Movies Entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/post.md"
+                "file": "Telegram/Movieworld/Movies Entregas.md"
               }
             }
           },
@@ -332,11 +331,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "c19c6947ad6b577e",
+  "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
     "Telegram/Elie/entregas.md",
-    "Telegram/Elie/post.md",
     "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Elie/post.md",
     "Telegram/Bussiness/Tamaños.md",
     "Linux/Comandos.md",
     "Linux/comandos_pip.md",
