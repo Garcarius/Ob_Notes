@@ -2,6 +2,14 @@ https://mega.nz/folder/HThw0AjQ#Dl7r7yjmyu10c0zJ6s0WZw
 
 ****
 
+#### 03-10-23
+valkcy
+https://lbx.to/s/SCXqX4O
+https://mega.nz/folder/Qm1lXJiQ#JT_JvUeNP2Eq-JaWiyA0CA
+
+Itsnanda
+https://lbx.to/s/dR8czum
+https://mega.nz/folder/gvNRRBIa#FOhhOoicJN4F7RJYK00vJQ
 #### 30-09-23
 EllyClutch
 https://lbx.to/s/gGEC881

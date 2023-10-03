@@ -121,7 +121,7 @@
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 48.56770833333333,
+                "dimension": 62.760416666666664,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -152,7 +152,7 @@
               {
                 "id": "c85703a921374c4a",
                 "type": "tabs",
-                "dimension": 51.432291666666664,
+                "dimension": 37.23958333333333,
                 "children": [
                   {
                     "id": "c19c6947ad6b577e",
@@ -333,9 +333,9 @@
   "active": "9a2a055df55bcf5f",
   "lastOpenFiles": [
     "Telegram/Elie/entregas.md",
+    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Descargas.md",
     "Telegram/Elie/post.md",
-    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Bussiness/Tamaños.md",
     "Linux/Comandos.md",
     "Linux/comandos_pip.md",
