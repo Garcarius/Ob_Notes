@@ -10,12 +10,12 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 41.889483065953655,
+            "dimension": 68.70109546165885,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
                 "type": "tabs",
-                "dimension": 40.364583333333336,
+                "dimension": 49.08854166666667,
                 "children": [
                   {
                     "id": "e741bf293380c59f",
@@ -30,19 +30,7 @@
                     }
                   },
                   {
-                    "id": "c8b8ad5a4be5cde3",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Linux/Linux.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "5b7388155816e0a4",
+                    "id": "8df6c0dccf530bae",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -52,25 +40,14 @@
                         "source": false
                       }
                     }
-                  },
-                  {
-                    "id": "8df6c0dccf530bae",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Telegram/Movieworld/Movie links.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "5695278b78636c83",
                 "type": "tabs",
-                "dimension": 59.63541666666667,
+                "dimension": 50.911458333333336,
                 "children": [
                   {
                     "id": "553befc012f5ab4e",
@@ -116,7 +93,7 @@
           {
             "id": "f82f28a893a0f5d5",
             "type": "split",
-            "dimension": 58.110516934046345,
+            "dimension": 31.29890453834116,
             "children": [
               {
                 "id": "4b6cd50521e97cac",
@@ -248,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/entregas.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -332,18 +309,19 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "56803e15af3dcab0",
+  "active": "8df6c0dccf530bae",
   "lastOpenFiles": [
-    "Telegram/Elie/links.md",
-    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/entregas.md",
+    "Telegram/Elie/links.md",
+    "Telegram/Movieworld/Movie links.md",
+    "Linux/Linux.md",
+    "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/post.md",
     "Telegram/Descargas.md",
     "Telegram/Bussiness/Tamaños.md",
     "Linux/Comandos.md",
     "Linux/comandos_pip.md",
     "Linux/ffmpeg.md",
-    "Linux/Linux.md",
     "Telegram/Personal/test.md",
     "Telegram/Personal/revisar.md",
     "Telegram/Personal/Cosas.md",
@@ -354,7 +332,6 @@
     "Windows/Windows.md",
     "Telegram/Elie/Elie.md",
     "Telegram/Telegram.md",
-    "Telegram/Movieworld/Movie links.md",
     "Telegram/Personal/links/Links_Personales.md",
     "Telegram/Personal/links/ZPNAGh4jL7.md",
     "Untitled.md",
