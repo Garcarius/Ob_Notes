@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 68.70109546165885,
+            "dimension": 47.655068078668684,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -93,12 +93,12 @@
           {
             "id": "f82f28a893a0f5d5",
             "type": "split",
-            "dimension": 31.29890453834116,
+            "dimension": 52.344931921331316,
             "children": [
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 69.921875,
+                "dimension": 35.28645833333333,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -130,7 +130,7 @@
               {
                 "id": "c85703a921374c4a",
                 "type": "tabs",
-                "dimension": 30.078125,
+                "dimension": 64.71354166666666,
                 "children": [
                   {
                     "id": "c19c6947ad6b577e",
@@ -311,12 +311,12 @@
   },
   "active": "8df6c0dccf530bae",
   "lastOpenFiles": [
-    "Telegram/Elie/entregas.md",
+    "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
+    "Telegram/Elie/entregas.md",
     "Telegram/Movieworld/Movie links.md",
     "Linux/Linux.md",
     "Telegram/Movieworld/Movies Entregas.md",
-    "Telegram/Elie/post.md",
     "Telegram/Descargas.md",
     "Telegram/Bussiness/Tamaños.md",
     "Linux/Comandos.md",
