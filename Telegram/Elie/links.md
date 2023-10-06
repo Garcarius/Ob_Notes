@@ -1,3 +1,21 @@
+
+#### 06-10-23
+Sophie-Reade
+https://mega.nz/folder/BCswBSSa#aHI1A-amr4WaQNjnqphGOw
+
+RachelCook
+https://mega.nz/folder/8vUFRYha#ASOXImokkyMKe0dODIplRw
+
+Genie Exum
+https://mega.nz/folder/kjl3yT6C#k7K4PRFIMB4Hhvi7DQrzeA
+
+SummerLynnHart
+https://mega.nz/folder/9icFFJ6C#JDOqpgR4B4ATfcvAhrYzMQ
+
+Alina Becker -
+https://mega.nz/folder/0ylUjDYQ#JZYg7Vu5mY8H5AczxQLCbw
+
+
 #### 05-10-23
 sophieraiin
 ya esta
