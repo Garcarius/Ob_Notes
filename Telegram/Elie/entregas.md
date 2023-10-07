@@ -16,6 +16,25 @@ Soogsx
 https://lbx.to/s/tDI4gam
 https://mega.nz/folder/czsWwLIJ#ur_V3G3J_Q0d96xXaLmxHQ
 
+Alina_becker
+https://lbx.to/s/f5EpFlX
+https://mega.nz/folder/vMc1VSBJ#_Qym3sFn1QlP4b2iKyphyg
+
+Genieeexumm
+https://lbx.to/s/D1sMzmD
+https://mega.nz/folder/2E9h1JbD#X_kMo94bylCDV8KG6IsUeQ
+
+RachelCook
+https://lbx.to/s/a7pMJ23
+https://mega.nz/folder/CVd0RBAY#XkoBuoKtNwVZft6_PhjpQw
+
+Sophiereadeofficial
+https://lbx.to/s/4e2KnYM
+https://mega.nz/folder/WcNwxRaA#Sczo3tZsP9e_K5vGfHUN7w
+
+SummerLynnHart
+https://lbx.to/s/en7Uigx
+https://mega.nz/folder/TF8XCYAQ#9rNzMIWUmdAeE3p28d-bag
 
 #### 06-10-23
 sophieraiin
