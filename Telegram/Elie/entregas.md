@@ -14,6 +14,9 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 astridwett
 https://lbx.to/s/eO3qJU0
 
+LexiMarvel
+https://lbx.to/s/vMSzwJo
+https://mega.nz/folder/erJDnZBB#82pQndunCpU9S-rio1owVQ
 
 
 
