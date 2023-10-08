@@ -13,12 +13,29 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 #### 08-10-23
 astridwett
 https://lbx.to/s/eO3qJU0
+https://mega.nz/folder/z64mFSSa#JE6wKrUf8eq2KClLwe_V8Q
 
 LexiMarvel
 https://lbx.to/s/vMSzwJo
 https://mega.nz/folder/erJDnZBB#82pQndunCpU9S-rio1owVQ
 
-cs
+TheMilaRose_
+https://lbx.to/s/5M7HGLZ
+https://mega.nz/folder/rnYV1YIA#6U01goO17k5mfoMDhHuefw
+
+Miafrancis
+https://lbx.to/s/6r1Ccet
+https://mega.nz/folder/ejJwkAaB#Nc2KGcpLuTlbbFbaY-LPsA
+
+kochanius
+https://lbx.to/s/p7V7cZi
+https://mega.nz/folder/XjJl0axS#XkC76hDxw_ayncps1VWkyw
+
+arikytsya
+https://lbx.to/s/27oj01z
+https://mega.nz/folder/S3QAFBQK#WPatSITVztrGqs3Xj0g1BA
+
+
 
 #### 07-10-23
 
