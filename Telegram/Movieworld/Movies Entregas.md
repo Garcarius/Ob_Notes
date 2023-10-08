@@ -2,6 +2,28 @@ https://mega.nz/folder/HThw0AjQ#Dl7r7yjmyu10c0zJ6s0WZw
 
 ****
 
+#### 08-10-23
+SofiaBrano
+https://lbx.to/s/FeAXhf7
+https://mega.nz/folder/D2QGVSAB#WW4pr6qkldndVqFCdn05AQ
+
+katieeeeebell
+https://lbx.to/s/3Nffg58
+https://mega.nz/folder/KrIUnTJQ#ARYGsEqsXL5WgMs2w3Xk3Q
+
+csblondebombshell
+https://lbx.to/s/kXoJc6V
+https://mega.nz/folder/mmRhyKZY#UcKwyPTLPGd5BbnWatRgmA
+
+adrianaalencar
+https://mega.nz/folder/JmECwS5B#85m36qpBKnZWY2nsnpc-eA
+
+bellamay1
+https://mega.nz/folder/xrllRbLL#D-W-pOJHEAQfAkeiX87ZWQ
+
+irelandrosetv
+https://mega.nz/folder/F2MXlCoR#btc79qKhD0L-3hd9AWIZqw
+
 #### 07-10-23
 realeduardas2
 https://lbx.to/s/GUIQ2Fw
