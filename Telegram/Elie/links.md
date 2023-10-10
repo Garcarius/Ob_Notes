@@ -1,4 +1,22 @@
 
+#### 10-10-23
+Carmen-rae
+https://mega.nz/folder/YiNXhI6B#LmrV7f17AqyT4iKDCDmyVg
+
+MarianaCruz
+https://mega.nz/folder/li1nmYgR#-2gf29viXDUS4smH1jLJhA
+
+Acpent
+https://mega.nz/folder/Y2F1iQLT#aI4WKLcOXUvRar4ELp37GA
+
+SharnaBeckman
+https://mega.nz/folder/33YQHBpZ#rl3BWmasWN3T6cFkI80RUQ
+
+Goddess Angelina
+https://mega.nz/folder/yrxUxJTA#r9wKYGeUBXeH683XaEpRQg
+
+Emiliaofficial
+https://mega.nz/folder/HdMyFBAJ#u5OVChB-uvV3m7xQYIX1DQ
 
 #### 09-10-23
 
