@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 57.90297339593115,
+            "dimension": 48.63842662632375,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -93,12 +93,12 @@
           {
             "id": "f82f28a893a0f5d5",
             "type": "split",
-            "dimension": 42.09702660406886,
+            "dimension": 51.36157337367625,
             "children": [
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 69.921875,
+                "dimension": 48.17708333333333,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -142,7 +142,7 @@
               {
                 "id": "c85703a921374c4a",
                 "type": "tabs",
-                "dimension": 30.078125,
+                "dimension": 51.822916666666664,
                 "children": [
                   {
                     "id": "c19c6947ad6b577e",
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/links.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -321,7 +321,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "8df6c0dccf530bae",
+  "active": "c19c6947ad6b577e",
   "lastOpenFiles": [
     "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
