@@ -34,6 +34,13 @@ Amouranth
 https://lbx.to/s/7d8j2A4
 https://mega.nz/folder/tukBXL6Z#E6eFBq_CrUU7Mk52u1Bt_A
 
+ur4vity
+https://lbx.to/s/9gqeC7I
+https://mega.nz/folder/drVBhBCb#QZhRlAQjfXhb4ovjDYazIA
+
+SendNudesx
+https://lbx.to/s/JdPnEWm
+https://mega.nz/folder/kj8mUJJD#ojeJm4xWNtzouGepxZrvKw
 
 #### 08-10-23
 SofiaBrano
