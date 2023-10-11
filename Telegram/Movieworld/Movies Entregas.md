@@ -18,6 +18,14 @@ https://mega.nz/folder/6NdliThT#wg_2cpab7fK7OBj8C4lpeA
 Emarrb
 https://lbx.to/s/PUesa3Y
 https://mega.nz/folder/nEExHSjQ#wE77WojIC70YXGnIa7xX7A
+
+AlexMucci
+https://lbx.to/s/3sA1nai
+https://mega.nz/folder/U28DnSZI#We25_0v5LWLSeXjsnW4zeA
+
+veronicaperasso
+https://lbx.to/s/3rAGOK9
+https://mega.nz/folder/AyU0SZRB#4z-nZapZ6aBXRvJtQv90Bg
 #### 09-10-23
 siennaababi
 https://lbx.to/s/HgsuQnA
