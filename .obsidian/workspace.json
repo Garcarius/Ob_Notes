@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 48.63842662632375,
+            "dimension": 48.638426626323756,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -93,12 +93,12 @@
           {
             "id": "f82f28a893a0f5d5",
             "type": "split",
-            "dimension": 51.36157337367625,
+            "dimension": 51.361573373676244,
             "children": [
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 71.875,
+                "dimension": 52.734375,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -142,7 +142,7 @@
               {
                 "id": "c85703a921374c4a",
                 "type": "tabs",
-                "dimension": 28.125,
+                "dimension": 47.265625,
                 "children": [
                   {
                     "id": "c19c6947ad6b577e",
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/entregas.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -321,10 +321,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "56803e15af3dcab0",
+  "active": "c19c6947ad6b577e",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
     "Telegram/Elie/entregas.md",
+    "Telegram/Elie/post.md",
     "Telegram/Elie/links.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Bussiness/Tamaños.md",
