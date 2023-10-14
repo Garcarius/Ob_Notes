@@ -9,6 +9,30 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 
 ****
 ****
+
+#### 14-10-23
+summersoderstrom
+https://mega.nz/folder/i6YRXbab#k1wl7TDbj5SJIMOQDpDUfg
+
+OliviaCastaxx
+https://mega.nz/folder/fmph3AzR#nHVEWXyqB5kRqY-eiAO0UQ
+
+laurenhamden
+https://mega.nz/folder/y7pljTqC#2dTj2JqPOL98V2CRNT9UcA
+
+keepers
+https://mega.nz/folder/i6wAnJ5J#Tz5W1fkT1urIJfmceZRFjg
+
+Justawildthing
+https://mega.nz/folder/a6ZEWB6I#9tw7MuTnhMh2ZM6TNoQFUQ
+
+Evamenta
+https://mega.nz/folder/qvRlVLYZ#dOEX_fNTLA6J8HL6ajif8g
+
+Bbybratzo
+https://mega.nz/folder/Sy5GgQrC#3GTAzxNoOFyjbXpUN1cIPw
+
+
 #### 11-10-23
 sproutieeee
 https://lbx.to/s/JRuPIbc
