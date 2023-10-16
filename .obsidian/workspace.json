@@ -10,7 +10,7 @@
           {
             "id": "74fc19f8c7c8f1dc",
             "type": "split",
-            "dimension": 56.33802816901409,
+            "dimension": 45.53706505295008,
             "children": [
               {
                 "id": "fa82eefa7df6610d",
@@ -93,12 +93,12 @@
           {
             "id": "f82f28a893a0f5d5",
             "type": "split",
-            "dimension": 43.66197183098591,
+            "dimension": 54.46293494704992,
             "children": [
               {
                 "id": "4b6cd50521e97cac",
                 "type": "tabs",
-                "dimension": 37.109375,
+                "dimension": 41.53645833333333,
                 "children": [
                   {
                     "id": "9a2a055df55bcf5f",
@@ -125,6 +125,18 @@
                     }
                   },
                   {
+                    "id": "fe65f1a4db288b35",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Telegram/Elie/entregas.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
                     "id": "3e6247db9b7e8a7d",
                     "type": "leaf",
                     "state": {
@@ -137,12 +149,12 @@
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 3
               },
               {
                 "id": "c85703a921374c4a",
                 "type": "tabs",
-                "dimension": 62.890625,
+                "dimension": 58.463541666666664,
                 "children": [
                   {
                     "id": "c19c6947ad6b577e",
@@ -220,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -237,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/links.md",
+                "file": "Telegram/Elie/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/links.md"
+                "file": "Telegram/Elie/post.md"
               }
             }
           },
@@ -321,14 +332,14 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "8df6c0dccf530bae",
+  "active": "c19c6947ad6b577e",
   "lastOpenFiles": [
-    "Telegram/Elie/post.md",
-    "Languages/Libanese/Lib.md",
-    "Languages/Libanese/Libanese.md",
-    "Telegram/Elie/entregas.md",
     "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Elie/entregas.md",
     "Telegram/Elie/links.md",
+    "Languages/Libanese/Lib.md",
+    "Telegram/Elie/post.md",
+    "Languages/Libanese/Libanese.md",
     "Telegram/Bussiness/Tamaños.md",
     "Telegram/Descargas.md",
     "Telegram/Movieworld/Movie links.md",
