@@ -15,7 +15,25 @@ Bbyanni
 https://lbx.to/s/tTC4eR2
 https://mega.nz/folder/iuwjBD4I#ix2g3CI6VFarPvBl7EcPgw
 
+sophie.xdt
+https://lbx.to/s/IG9XhsE
+https://mega.nz/folder/Ui82VJjT#ke1DnO4eZbqNl5F-MLM9gw
 
+skylar_blue
+https://lbx.to/s/amZ3OXa
+https://mega.nz/folder/YulmnSAT#Sb4F3ikpT4CRc7nJy437Tw
+
+kaitviolet
+https://lbx.to/s/znUwMyV
+https://mega.nz/folder/M2s2VCzQ#C_6rwzXWIOzXQnH6BkTpUA
+
+aubreyjane.fitness
+https://lbx.to/s/DatT93S
+https://mega.nz/folder/c3EVDaaT#w2Nc5xPu9uLVJXzScifXhg
+
+Ariataylorxxx
+https://lbx.to/s/H48nmQZ
+https://mega.nz/folder/p6MnzLqY#mQYiVRX_F-M7OGezR-lQLQ
 
 #### 15-10-23
 
