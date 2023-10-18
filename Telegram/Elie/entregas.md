@@ -12,18 +12,36 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 
 #### 18-10-23
 whoahannahjo
+https://lbx.to/s/eLV6GJy
 https://mega.nz/folder/fiR3QbAQ#rw8fAvjOnn_4ut-GjpBnhA
 
 miseksy
+https://lbx.to/s/KMl1u8V
 https://mega.nz/folder/zjoGzJIT#mqUqYDBIFONtpj-moNHikA
 
 MiaMelano
+https://lbx.to/s/uqKPBoc
 https://mega.nz/folder/jiIBQTaR#iHl26TZNabQpXLZCVn_l0Q
 
 KaylaEast
+https://lbx.to/s/gOAkw4W
 https://mega.nz/folder/Pm4RCTpQ#ulxZGlRf_nxhsOUKy4PhMw
 
+TheRealbrittfit
+https://lbx.to/s/5AYj5KS
+https://mega.nz/folder/urZyUCJK#c7YlND-8pyTl6c_1kjJurg
 
+sundaebunsdae
+https://lbx.to/s/yLLT9lt
+https://mega.nz/folder/av4zHCpD#GYUVxCTpWzRxPUhsM5K1IA
+
+milasolobov
+https://lbx.to/s/ALZk38V
+https://mega.nz/folder/iyJDQYSb#jJEXPz0qJmnNkIz94DfvCQ
+
+Liliana Hearts
+https://lbx.to/s/Ygr6pWv
+https://mega.nz/folder/GiJTgJ6L#1E5mXMzG38gbM_RRrUzXGQ
 #### 17-10-23
 afterdarkwillow
 https://lbx.to/s/K6NJMhs
