@@ -4,12 +4,15 @@ https://mega.nz/folder/HThw0AjQ#Dl7r7yjmyu10c0zJ6s0WZw
 
 #### 18-10-23
 valeryaltamar001
+https://lbx.to/s/9GlgAsK
 https://mega.nz/folder/jjwQ0ACY#agamvdj55dXTLhhfxz-OXg
 
 daniellasalvi
+https://lbx.to/s/yWmsZTo
 https://mega.nz/folder/335xBTKa#BgQMUbZHNcISsZmTzzpXmQ
 
 only_marisol
+https://lbx.to/s/SSHlww8
 https://mega.nz/folder/3iZRnJJB#MFdZUDfpLxtrsKzltWNDhA
 
 #### 17-10-23
