@@ -1,4 +1,22 @@
 
+
+#### 18-10-23
+Hannahjo
+https://mega.nz/folder/wrEXFbaZ#7b7FVGNL6EZj0ocKavvoIw/folder/ZuFiEDTT
+
+Miseksy
+https://mega.nz/folder/fy4k0DKS#14Cz58QEH3yONLbfJEdAtQ
+
+Mia Melano
+https://mega.nz/folder/7zx2EI5Y#WCYQRR4qGRC9XTVCXi-FuQ
+
+Mila Sobolov
+https://mega.nz/folder/ujZWwYhC#rMWJPTNvHwqF9P35qZSV3Q/folder/X7IR1Dgb
+
+Liliana Hearts
+Mega
+
+https://mega.nz/folder/9ql1RbiZ#NS9tLxQYRopt-T8-gMlKLA
 #### 17-10-23
 Foopah
 https://mega.nz/folder/1P9WGCQZ#OBubEHG7sBjc_vwQE9zkrw
