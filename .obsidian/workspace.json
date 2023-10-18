@@ -41,7 +41,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "5695278b78636c83",
@@ -248,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Bussiness/Tamaños.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -332,12 +333,12 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "e741bf293380c59f",
+  "active": "8df6c0dccf530bae",
   "lastOpenFiles": [
+    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/links.md",
     "Telegram/Movieworld/Movies Entregas.md",
     "Telegram/Elie/entregas.md",
-    "Telegram/Bussiness/Tamaños.md",
     "Telegram/Elie/post.md",
     "Languages/Libanese/Lib.md",
     "Languages/Libanese/Libanese.md",

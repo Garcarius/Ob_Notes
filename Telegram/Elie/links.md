@@ -1,4 +1,34 @@
 
+#### 19-10-23
+ElsaThora
+https://mega.nz/folder/PvRkiD4a#yYLquZ4Z0Uc3pPSzISJi4A
+
+Lily Adrianne
+https://mega.nz/folder/SnhhnTLD#DHJAnPBdclPJ-myQWqmrZQ
+
+JackieBabiGirl
+Mega
+
+Orla
+https://mega.nz/folder/vixF3BJY#yJOusuxCY0m2we_NbefQwQ
+
+Elina Olsson
+https://mega.nz/folder/6JkQUBDD#j9jgKViLdyaD-hVPYtl2Jw
+
+mollyeskam
+https://mega.nz/folder/QuEkEAKb#7OnrmSuDY3ioS3Zn1VPkgg
+
+Martina Smeraldi
+https://mega.nz/folder/wWU2nKSb#h4apU84snUSAMEzf0ZF5ww
+
+lilydaisyphilips
+https://mega.nz/folder/KApDCagL#fDynAN5htMpE7WkZ8YJrug
+
+noemie dufresne
+https://mega.nz/folder/6JR0VaaK#g7iKHnhe-uRZp92Mw7d1qA
+
+splatxo
+
 
 #### 18-10-23
 Hannahjo
