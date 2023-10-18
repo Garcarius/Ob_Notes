@@ -9,6 +9,21 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 
 ****
 ****
+
+#### 18-10-23
+whoahannahjo
+https://mega.nz/folder/fiR3QbAQ#rw8fAvjOnn_4ut-GjpBnhA
+
+miseksy
+https://mega.nz/folder/zjoGzJIT#mqUqYDBIFONtpj-moNHikA
+
+MiaMelano
+https://mega.nz/folder/jiIBQTaR#iHl26TZNabQpXLZCVn_l0Q
+
+KaylaEast
+https://mega.nz/folder/Pm4RCTpQ#ulxZGlRf_nxhsOUKy4PhMw
+
+
 #### 17-10-23
 afterdarkwillow
 https://lbx.to/s/K6NJMhs

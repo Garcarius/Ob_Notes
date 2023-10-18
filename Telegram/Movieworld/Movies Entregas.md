@@ -2,6 +2,13 @@ https://mega.nz/folder/HThw0AjQ#Dl7r7yjmyu10c0zJ6s0WZw
 
 ****
 
+#### 18-10-23
+valeryaltamar001
+https://mega.nz/folder/jjwQ0ACY#agamvdj55dXTLhhfxz-OXg
+
+daniellasalvi
+https://mega.nz/folder/335xBTKa#BgQMUbZHNcISsZmTzzpXmQ
+
 
 #### 17-10-23
 vero_gold
