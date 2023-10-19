@@ -9,19 +9,19 @@ https://mega.nz/folder/SnhhnTLD#DHJAnPBdclPJ-myQWqmrZQ
 JackieBabiGirl
 Mega
 
-Orla
+Orla  -- Mega
 https://mega.nz/folder/vixF3BJY#yJOusuxCY0m2we_NbefQwQ
 
-Elina Olsson
+Elina Olsson  -- Mega
 https://mega.nz/folder/6JkQUBDD#j9jgKViLdyaD-hVPYtl2Jw
 
-mollyeskam
+mollyeskam 
 https://mega.nz/folder/QuEkEAKb#7OnrmSuDY3ioS3Zn1VPkgg
 
 Martina Smeraldi
 https://mega.nz/folder/wWU2nKSb#h4apU84snUSAMEzf0ZF5ww
 
-lilydaisyphilips
+lilydaisyphillips -- mega
 https://mega.nz/folder/KApDCagL#fDynAN5htMpE7WkZ8YJrug
 
 noemie dufresne
