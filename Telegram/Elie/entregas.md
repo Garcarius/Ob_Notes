@@ -11,7 +11,40 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 ****
 
 #### 19-10-23
+Elina.olsson
+https://lbx.to/s/yfg8wxp
+https://mega.nz/folder/HrhHkKQQ#pAnPRUHM9jx-0BuXAF6QNA
 
+elsathora
+https://lbx.to/s/qyoRI2w
+https://mega.nz/folder/riYS1Q5S#DZVNNNM6VqoWNWFnhmy1jw
+
+Jackiebabigirl
+https://lbx.to/s/nD9cSos
+https://mega.nz/folder/CrJwgb4L#zi1hx6YlkjSQ3uBSv421aw
+
+lilydaisyphillips
+https://lbx.to/s/ywSyF1T
+https://mega.nz/folder/CnIHSZJT#dPDCi7ST2-dcT1v7oFxjGQ
+
+Orlamelissa
+https://lbx.to/s/l0PeeZU
+https://mega.nz/folder/ym5XnIqA#cxMWlzRqT4IAAaPafVRG9Q
+
+lilyadrianne
+https://lbx.to/s/fq53TIw
+
+MartinaSmeraldiofficial
+https://lbx.to/s/qAiHZBk
+
+mollyeskam
+https://lbx.to/s/Tj4ADiv
+
+noemiedufresne
+https://lbx.to/s/LurzMBb
+
+splatxo
+https://lbx.to/s/GpyTyAk
 
 
 #### 18-10-23
