@@ -1,7 +1,12 @@
 #### 20-10-23
-
+diakimeko
 https://mega.nz/folder/WB0EXDaJ#DZjFSWr3jQR2Hmbs-WlIKQ
 
+GIRLOFNOX
+https://mega.nz/folder/DVNAWABB#i6uRWDl1mPhdF-vNW2IIAA
+
+Iamhely
+https://mega.nz/folder/XJMWgJhD#B1MePbPhMhOgv1GIwj-Hqw
 #### 19-10-23 
 ElsaThora --- Mega
 https://mega.nz/folder/PvRkiD4a#yYLquZ4Z0Uc3pPSzISJi4A
