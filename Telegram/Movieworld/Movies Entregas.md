@@ -4,8 +4,21 @@ https://mega.nz/folder/HThw0AjQ#Dl7r7yjmyu10c0zJ6s0WZw
 
 #### 19-10-23
 
+thesashaxo
+https://mega.nz/folder/qnxWxKaA#GRhNz1zigOQyL_5Vmp-jDA
+
 Pporshhx
-Mega
+https://mega.nz/folder/jrhV1ZhT#SvNkUjM7nCyOfKBP4DVQSw
+
+oreob4by
+https://mega.nz/folder/zixVlTqD#pc8IHP8rzvcOAcZnRYMpjA
+
+lexy_poy
+https://mega.nz/folder/T3pS1IzC#qg0vxoONL2pJQTrnpCKzNA
+
+laylabrooks0
+https://mega.nz/folder/SrI0QTYA#PQSKxxDcV10I6gjdX2kDzg
+
 
 
 #### 18-10-23
