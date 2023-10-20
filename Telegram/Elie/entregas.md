@@ -9,6 +9,21 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 
 ****
 ****
+#### 20-10-23
+Taylor_Banks
+https://mega.nz/folder/5r0lCLAD#53DKqwAPPB8jgn4PueZv5w
+
+megnut
+https://mega.nz/folder/N2kz1J6B#BlXF-_PrdVjWRcqvF-50iQ
+
+Iamhely
+https://mega.nz/folder/krNFWbbY#zEZPLA0Fav5hzzWKo_Ie7w
+
+girlofnox
+https://mega.nz/folder/F61FULDI#ERzqQXS5z4ERpUhRYf62Iw
+
+diakimeko
+https://mega.nz/folder/B7t3gaLK#1qoflI987QgXty_u8BFSgQ
 
 #### 19-10-23
 Elina.olsson
