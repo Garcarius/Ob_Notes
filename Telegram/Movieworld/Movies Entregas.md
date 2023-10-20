@@ -1,6 +1,15 @@
 https://mega.nz/folder/HThw0AjQ#Dl7r7yjmyu10c0zJ6s0WZw
 
 ****
+#### 20-10-23
+
+Frasy_strase
+https://lbx.to/s/4bmIgSS
+https://mega.nz/folder/IykBnLwC#HQUwfhw8ALnHsG27w-stEw
+
+lowelleffy
+https://lbx.to/s/FqDZ4B7
+https://mega.nz/folder/4usEDTAZ#vM5I1RNRLWmMlDUytPwnkw
 
 #### 19-10-23
 
