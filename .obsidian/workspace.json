@@ -35,6 +35,18 @@
                     "state": {
                       "type": "markdown",
                       "state": {
+                        "file": "Telegram/Movieworld/Movie links.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "48faea6c10f18786",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
                         "file": "Telegram/Elie/links.md",
                         "mode": "source",
                         "source": false
@@ -42,7 +54,7 @@
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               },
               {
                 "id": "5695278b78636c83",
@@ -232,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2c4593016fc849f7",
@@ -249,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Elie/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Elie/entregas.md",
+                "file": "Telegram/Elie/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Elie/entregas.md"
+                "file": "Telegram/Elie/links.md"
               }
             }
           },
@@ -333,17 +344,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "fe65f1a4db288b35",
+  "active": "48faea6c10f18786",
   "lastOpenFiles": [
-    "Telegram/Movieworld/Movies Entregas.md",
-    "Telegram/Elie/entregas.md",
-    "Telegram/Descargas.md",
+    "Telegram/Movieworld/Movie links.md",
     "Telegram/Elie/links.md",
+    "Telegram/Elie/entregas.md",
+    "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Descargas.md",
     "Telegram/Elie/post.md",
     "Telegram/Bussiness/Tamaños.md",
     "Languages/Libanese/Lib.md",
     "Languages/Libanese/Libanese.md",
-    "Telegram/Movieworld/Movie links.md",
     "Linux/Linux.md",
     "Linux/Comandos.md",
     "Linux/comandos_pip.md",
