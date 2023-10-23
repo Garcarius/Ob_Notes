@@ -1,6 +1,24 @@
 https://mega.nz/folder/HThw0AjQ#Dl7r7yjmyu10c0zJ6s0WZw
 
 ****
+#### 23-10-23
+Pandorakaaki
+https://lbx.to/s/aWYUYau
+https://mega.nz/folder/XcoUgCjT#ICt6lgaLJeHWoaFVZX4rtA
+
+morganveraaxo
+https://lbx.to/s/nlJH9JD
+https://mega.nz/folder/yN4VibJC#eNPTx2Gt_OSbC2FIa2RzBw
+
+Melimtx
+https://lbx.to/s/51RoHro
+https://mega.nz/folder/jdog0K5B#z1ojvR8l-T_xMw-w9y_qZQ
+
+arikytsya
+https://mega.nz/folder/WUVFFYaB#DCenyRyFSuw7HVjdJmSA2g
+
+
+
 #### 20-10-23
 
 Frasy_strase
