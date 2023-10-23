@@ -10,6 +10,27 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 ****
 ****
 
+#### 24-10-23
+valecasta
+https://lbx.to/s/aYPM6jq
+https://mega.nz/folder/rQ8ywCTT#QYHQ7vnRwbvBw6ir7xgIbQ
+
+Sophiemudd
+https://lbx.to/s/CTe72sm
+https://mega.nz/folder/zFN3QBJD#uSNb74WNgdOUZYtcZt7Lrg
+
+Janelucier
+https://lbx.to/s/ym4WLcM
+https://mega.nz/folder/vV0xzKpC#Em1N5fKhs6lduOUUwk0-VA
+
+hollyrobinson16
+https://lbx.to/s/LdPOBLu
+https://mega.nz/folder/CAdzwRoZ#Kdwl0dfHgmN38Y4bzXaaRw
+
+GinaSavageX
+https://lbx.to/s/zVkgnDR
+https://mega.nz/folder/SdtnQLYB#hMoPfDbCx4fXZmnUnp2aAQ
+
 #### 23-10-23
 Shyjbaby
 https://lbx.to/s/Px5FijI
