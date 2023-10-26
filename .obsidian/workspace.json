@@ -155,7 +155,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Telegram/Movieworld/Movies Entregas.md",
+                        "file": "Telegram/Elie/entregas.md",
                         "mode": "source",
                         "source": false
                       }
@@ -216,7 +216,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "uwu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,7 +241,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -261,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md",
+                "file": "Telegram/Elie/entregas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md",
+                "file": "Telegram/Elie/entregas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/Movieworld/Movies Entregas.md"
+                "file": "Telegram/Elie/entregas.md"
               }
             }
           },
@@ -347,8 +348,8 @@
   },
   "active": "3e6247db9b7e8a7d",
   "lastOpenFiles": [
-    "Telegram/Elie/entregas.md",
     "Telegram/Movieworld/Movies Entregas.md",
+    "Telegram/Elie/entregas.md",
     "Telegram/Telegram.md",
     "Telegram/Varios.md",
     "Linux/comandos_pip.md",
