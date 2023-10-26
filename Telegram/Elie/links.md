@@ -1,3 +1,35 @@
+#### 26-10-23
+u-lucyuwu
+https://mega.nz/folder/xm0yAACC#juAFFshw8re2O6ultjxeFg
+
+Anna Paul 
+https://mega.nz/folder/XJ8UgbBY#AebHuQE_vMw4HEI6z4EZSg
+
+berigalaxy
+https://mega.nz/folder/F3NhUCZa#j4uiRM7IjghxlktQ9t99EQ
+
+Tameeka Kerr 
+https://gofile.io/d/tTU90e
+https://gofile.io/d/sZ1ZDm
+https://gofile.io/d/Fx8RZJ
+https://gofile.io/d/jFFMFU
+https://gofile.io/d/uyc8Am
+https://gofile.io/d/e2SIz4
+https://bunkrr.su/a/FCZrXPuL
+https://bunkrr.su/a/h5MMxxat
+https://bunkrr.su/a/vlG47jWW
+https://bunkrr.su/v/z-mCuT2vt8.mp4
+https://bunkrr.su/v/IMG_6978-ITyx8iKy.MOV
+https://bunkrr.su/v/0h6wsx0978a1y9s4gwh6e_source-dYqEHLq0-Fa9kQD4w.mp4
+https://bunkrr.su/v/0gzyyqf269eem1qgkrcky_source-vapymG5O-Lx2Qoe4k.mp4
+
+alyssakulani
+mega
+
+
+B00b1
+https://mega.nz/folder/fQt3VA5S#eP3zaEjm_0iB5K7FcVGKAg
+
 #### 22-10-23
 daisyraexo
 https://mega.nz/folder/hy8jHCTS#fHN-y3Px7KROzRiyMB9iqQ
