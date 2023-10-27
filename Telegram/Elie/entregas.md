@@ -34,6 +34,18 @@ alyssakulani
 https://lbx.to/s/8ZHntSx
 https://mega.nz/folder/I1ZmVBwJ#kahNRFvUnvnTjKHde21pxw
 
+zooemoore
+https://lbx.to/s/DEB2PlG
+https://mega.nz/folder/oxhRxbpJ#jmDZ1uf2IMBxuX-leCmJcQ
+
+Li_Kida
+https://lbx.to/s/oQkL0C6
+https://mega.nz/folder/Z4BiiJTQ#XndoMpfgwrb6ydrs_AyuFg
+
+Asissska
+https://lbx.to/s/YwUpePT
+https://mega.nz/folder/5p4CVKQY#iX-ZLrY0sgl8TDMKeyvUSg
+
 #### 26-10-23
 mssethi
 https://lbx.to/s/TA1GwcK

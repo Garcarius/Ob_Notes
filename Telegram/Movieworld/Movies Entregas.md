@@ -1,6 +1,50 @@
 https://mega.nz/folder/HThw0AjQ#Dl7r7yjmyu10c0zJ6s0WZw
 
 ****
+
+#### 27-10-23
+Wettmelons
+https://lbx.to/s/vyMkwXy
+https://mega.nz/folder/9051CLxT#jxX3yE2a9rIeaDVqiD9xFA
+
+savaschultz
+https://lbx.to/s/r2RRBNM
+https://mega.nz/folder/cgIjWKrT#qkXELGL7Nk2bcEMowZ9MNA
+
+Anapaulasaenzoficial
+https://lbx.to/s/2BXu2BX
+https://mega.nz/folder/tkJyzQxB#xzoXd922Vi2JcgTv7rFtBQ
+
+Alyssagriffith
+https://lbx.to/s/KGVHeNd
+https://mega.nz/folder/xp42HApR#mY2M_cK4oLNpA_e4itPlTg
+
+marinamui
+https://lbx.to/s/YfY82cw
+https://mega.nz/folder/t1g3CToZ#xzb5S4SS43r_Mvp8-C0E0g
+
+lilithcavali
+https://lbx.to/s/ZlTMARV
+https://mega.nz/folder/xt5EgIST#Dnk6xwdD-lwr0dcI8RLIqQ
+
+laurenxburch
+https://lbx.to/s/Aifh2Sb
+https://mega.nz/folder/p9QHBSrJ#tuR28cZi94GPhtelBycImQ
+
+AlexMucci
+https://lbx.to/s/Eo1oIVE
+https://mega.nz/folder/JwAWDIjC#6cv8B1bTs7ylbex_IGUo2Q
+
+ReneeGracie
+https://lbx.to/s/fMDMidO
+https://mega.nz/folder/s3MUBIaD#YnWShjplLH1I7WzVrNCoFw
+
+slimthickvic
+https://lbx.to/s/2KcLTyU
+https://mega.nz/folder/9i9QTJTD#Q6F7GjMHj7BEIunXkRA6gw
+
+
+
 #### 25-10-23
 
 tretyakova
