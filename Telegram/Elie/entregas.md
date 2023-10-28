@@ -9,6 +9,31 @@ https://mega.nz/folder/yO5RjSrJ#rAr2nrpq_Ckgex0Lyz5MIQ
 
 ****
 ****
+#### 28-10-23
+anaknoxx
+https://lbx.to/s/QrfupqC
+https://mega.nz/folder/R2VShJIZ#lqw9Cmd5lh4k9QJjIy0eVA
+
+Aspenirl
+https://mega.nz/folder/d6ETFLoB#xCSoQvNkka74Oj7XSndeIA
+
+Itsnanda
+https://mega.nz/folder/B7sgFBbK#zUoSkYwLiBPLHiJBzbsohg
+
+jailyneojeda
+https://mega.nz/folder/V7Ey1KqQ#8lxzy77KGA4D9oEp7NJC9Q
+
+Jamielyn
+https://mega.nz/folder/p29FmTyR#DWFOg8bRh4_wu1xSuFxY9g
+
+Planesgirl
+https://mega.nz/folder/Fj9kBBSD#kosMpbENKSdxfCdjuYtcnA
+
+slayhil
+https://mega.nz/folder/tulWhZRZ#kp04kCdJ9uYN35OK6DjTNA
+
+tasya666
+https://mega.nz/folder/I29DSR6A#v-bNK84WgN8LJ80yDGpZxA
 #### 27-10-23
 u-lucyuwu
 https://lbx.to/s/wz6ARPk
